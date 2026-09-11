@@ -1,0 +1,49 @@
+# Tarhiel
+
+Tarhiel was a Bosmer Enchanter whose body may be found north of Seyda Neen.
+
+## Background
+
+"The time is almost upon me. My research is finished, and all of my calculations are checked and rechecked. They laughed at me when I suggested this. We'll see who laughs after I leap to the top of their towers and scream out my success."
+
+―Tarhiel
+
+Tarhiel was working on a spell of flight, in the hopes of creating a method of one travelling quickly without the need to pay anyone else. After researching and calculating all the attributes of the spell, he sought to test it out, believing it could have one travel hundreds of miles.
+
+When exploring the area around Seyda Neen, to the north the Bosmer mage can be seen flying up in the air, yelling "WAAAAAAAOOOOOOOOOOAAAAAAAAAGGGHHHHHH!!!!!" He soon falls to the ground and dies upon impact, with his last words being "AAAAAAARRRRRRGGGGGGGGGGGGGGGGGGGG!!!!!!"
+
+Tarhiel's uncanny ability to "fly" can be attributed to his use of the Scrolls of Icarian Flight, which allow the caster to leap great distances in the air. Unfortunately, the one aspect of the spell Tarhiel hadn't thought through all the way was the duration. His Icarian Flight spell hurled him high up in the air, but it then wore off before he reached the ground again, so the immunity to falling damage disappeared, and falling to his death became inevitable.
+
+## Interactions
+
+## A Falling Wizard
+
+Tarhiel can be found flying in the air while exploring the area around Seyda Neen. Soon after being found, he drops and dies from the fall.
+
+His life can be saved by casting a Slowfall spell with a large area of effect on the area where he falls. After, his only dialogue script is: "I don't want to talk about it". The only other line is "Cover yourself! Are you mad? Have you no decency?" if you are wearing no clothing while speaking to him.
+
+He offers repairs services and buys certain items, although the latter function is impractical, as he has no gold to barter with.
+
+## Loot
+
+Scrolls of Icarian Flight: This enchanted scroll allows the caster to seemingly fly for a time. However, in actual fact it raises the user's acrobatics skill to 1000 for 7 seconds, allowing the caster to leap great distances.
+
+Iron Sparksword – A powerful weapon for an adept in the Long Sword skill.
+
+Journal of Tarhiel
+
+Extravagant Robe
+
+Extravagant Shoes
+
+Colovian Fur Helm
+
+Gold
+
+## Trivia
+
+His name is a reference to the North Carolina Tar Heels, rivals of the Duke Blue Devils. Similar sports-related Easter eggs include Eltonbrand and BlueDev's Ring of Viewing.
+
+With The Elder Scrolls V: Dragonborn, a Bosmer wizard can be seen as a random encounter on Solstheim. This wizard will cast a flying spell when approached, but soon falls out of the sky and dies upon impact. This is likely a reference to Tarhiel.
+
+A reference to him can be found in northern Cyrodiil in The Elder Scrolls Online, in the form of another Bosmer mage named Icarian who also sought to achieve flight.
