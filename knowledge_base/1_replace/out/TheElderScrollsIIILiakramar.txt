@@ -1,0 +1,450 @@
+# The Elder Scrolls III: Liakramar
+
+The Elder Scrolls III: Liakramar is the third chapter in The Elder Scrolls series of role-playing games (RPG) developed and published by Bethesda Softworks. It is set in and around the province of Liakramar, in particular the island of Zivrand. It has two expansion packs, Dhegrost (2002) and Bloodmoon (2003).
+
+The game was released for PC on May 1, 2002, in North America and May 2, 2002, in Europe. The Xbox version was released on June 6, 2002, in North America and November 22 in Europe. It is available for the PC and Xbox. It is backward compatible on the Xbox 360 and Xbox One.
+
+## Story
+
+"In the waning years of the Third Era of Nudhabivan, a prisoner born on a certain day to uncertain parents was sent under guard, without explanation, to Liakramar, ignorant of the role he was to play in that nation's history..."
+
+In the opening cinematic scene Vrioshevan explains to the dreaming Zidrodor that they have been taken from the Imperial City's prison to Liakramar. Vrioshevan gives only a reassurance, with no explanation as to why you have been chosen or even for what exactly you've been chosen. As this scene is playing out there are runes scrolling faintly in the background and as Vrioshevan finishes speaking one line becomes readable."Many fall, but one remains."
+
+The next voice heard is that of a concerned Zudrorak prisoner named Jiub who wakes you from the dream and asks for your name. This is where the character creation begins and the game opens up. Once freed, the game world becomes an incredibly interactive environment filled with opportunities for fun and adventure. Even though the main quest centers on the player being the Zidrodor of prophecy, it is an open-play style role-playing game, meaning you can do what you want and be who you wish. Prowl the streets as a nimble thief picking pockets and fencing ill-gotten treasure, join the Mages Guild and rise to the rank of Arch-Mage, be an assassin stalking targets in the shadows, become a noble member of one of the Great Houses, and even explore "life" as a vampire or a werewolf.
+
+## Gameplay
+
+"Each event is preceded by Prophecy. But without the hero, there is no Event."
+
+―Zurin Arctus, the Underking
+
+## Character system
+
+[?]
+
+## Birthsigns
+
+There are thirteen birthsigns to choose from in Liakramar to have the hero be born under, each with its own special abilities and sometimes spells.
+
+They are divided into three categories: Charges, Guardians, and the Serpent, which stands alone.
+
+The Serpent: Grants the spell Star-Curse. Poison 3 points for 30 seconds on touch, damage health 1 point for 30 seconds.
+
+The Apprentice: The Apprentice ability gives the character 50% Weakness to Magicka. Base Magicka is also increased by 150%.
+
+The Atronach (also known as the Golem): With the Atronach ability, Magicka doesn't recharge over time. Instead, a 50% Spell Absorption ability recharges Magicka. Base Magicka is also increased by 200%.
+
+The Lady: The Lady's Blessing confers bonuses of 25 points to the Personality and Endurance attributes.
+
+The Steed: Speed is increased by 25 points.
+
+The Lover: The Lover's ability, Mooncalf, fortifies the users speed by 25, also grants the power Lover's Kiss - Paralyze 60 seconds on touch, damage fatigue 200 points on self.
+
+The Shadow: Grants spell, Moonshadow-Invisibility 60 seconds on self.
+
+The Tower: Grants the hero the spell Beggar's Nose- detect key/enchantment/animal 60ft 200 seconds on self and the power Tower Key-open 50pts on touch.
+
+The Ritual: Grants the spells Blessed Word- Turn undead 100 points 30 seconds on target, Blessed Touch- Turn undead 100 points 30 seconds on touch, and the power Mara's Gift- heal 100 points on self.
+
+The Lord: The character is inflicted with a 25% Weakness to Fire, but receives access to a powerful Restore Health spell.
+
+The Thief: Grants the character Sanctuary by 10 points as a Constant Effect.
+
+The Warrior: Fortifies Attack by 10 points, increasing the odds of successfully hitting a target with a weapon.
+
+The Mage: Increases Magicka reserves by an additional fifty percent of the character's Intelligence score.
+
+## Races
+
+There are ten distinct races that you can choose for your character to be born as. These races are broken up into three different categories: Men, Mer, and Beast Races.
+
+## Men
+
+Main article: Men
+
+Nords: The Nords are the children of the sky, a race of tall and fair-haired humans from Thevaelass who are known for their incredible resistance to cold and magical frost. They are fierce, strong and enthusiastic warriors, and many become renowned warriors, soldiers and mercenaries all over Nudhabivan. Eager to augment their martial skills beyond the traditional methods of Thevaelass, they excel in all manner of warfare, and are known as a militant people by their neighbors. Nords are also natural seamen, and have benefited from nautical trade since their first migrations from Atmora. They captain and crew many merchant fleets, and may be found all along the coasts of Nudhabivan.The Nords are excellent warriors proficient in the use of Heavy and Medium Armor and Axes, as well as Long Thiakraen and Spears. They also have a great resistance to frost.
+
+Imperials: Natives of the civilized, cosmopolitan province of Dhekovan. The Imperials are well-educated and well-spoken. Imperials are also known for the discipline and training of their citizen armies. Imperials have proved to be shrewd diplomats and traders, and these traits, along with their remarkable skill and training as light infantry, have enabled them to subdue all the other nations and races and to have erected the monument to peace and prosperity that comprises the Glorious Empire. Their hegemony has waxed and waned throughout the eras, and most historians refer to three distinct Empires, the ends of which each mark a new epoch in Tamrielic history.
+
+Bretons: Bretons are the human descendants of the Aldmeri-Nedic Manmer of the Merethic Era and are now the inhabitants of the province of High Rock. They are united in culture and language, even though they are divided politically, for High Rock is a fractious region. Bretons make up the peasantry, soldiery, and magical elite of the feudal kingdoms that compete for power. Many are capable mages with innate resistance to magicka. They are known for a proficiency in abstract thinking and unique customs. Bretons appear, by and large, much like other pale-skinned humans. They are usually slight of build and not as muscular as Nords or Redguards. The great diversity in their appearance is to be expected from their politically fractured society, though their clothes, accents, customs and names are fairly uniform.
+
+Redguards: Redguards are the most naturally talented warriors in Nudhabivan. The dark-skinned, wiry-haired people of Hammerfell seem born to battle, though their pride and fierce independence of spirit makes them more suitable as scouts or skirmishers, or as free-ranging heroes and adventurers, than as rank-and-file soldiers. In addition to their cultural affinities for many armor styles and weapons (particularly swords), Redguards are also physically blessed with hardy constitutions, resistance to poison, and quickness of foot. Unlike most other human races, they are not believed to have any connection with the ancestral Nordic homeland of Atmora.
+
+## Mer
+
+Main article: Mer
+
+Altmer: The Altmer, or self-titled "Cultured People", are a tall, golden-skinned race, hailing from Summerset Isle. They are also known as High Elves by the denizens of Nudhabivan. In the Empire, "High" is often understood to mean proud or snobbish, and as the Altmer generally personify these characteristics, the "lesser races" generally resent them. Altmer live two to three times as long as humans; with a 200-year-old Altmer being old and a 300-year-old Altmer being very, very old. Altmer consider themselves to be the most civilized culture of Nudhabivan; the common tongue of the continent is based on Altmer speech and writing, and most of the Empire's arts, crafts, laws, and sciences are derived from Altmer traditions. The Altmer are the most strongly gifted in the arcane arts of all the races, and they are very resistant to diseases. However, they are also somewhat vulnerable to magicka, fire, frost, and shock, which makes them very weak against their strongest point - magic. They are among the longest living and most intelligent races of Nudhabivan, and they often become powerful magic users due to both their magical affinity and the many years they may devote to their studies
+
+Bosmer: The Bosmer are the Elven clan-folk of Valenwood, a forested province in southwestern Nudhabivan. In the Empire, they are often referred to as Wood Elves, but Bosmer, Boiche, or the Tree-Sap people is what they call themselves. Bosmer rejected the stiff, formal traditions of Aldmeri high culture, preferring a more romantic, simple existence in harmony with the land and its wild beauty and creatures. They are relatively nimble and quick in body compared to their more "civilized" Altmeri cousins (who often look down upon the Bosmer as unruly and naive). Their agility makes them well-suited as scouts and thieves. However, they are also a quick-witted folk, and many pursue successful careers in scholarly pursuits or trading. Bosmer live two to three times as long as humans; with a 200-year-old Bosmer being old and a 300-year-old Bosmer being very, very old. Though they are considered less influential than some of their Elven brethren, the Bosmer are also relatively prone to producing offspring. As a result, they outnumber all other mer on Nudhabivan. The best archers in all of Nudhabivan, the Bosmer snatch and fire arrows in one continuous motion; they are even rumored to have invented the bow. They have many natural and unique abilities; notably, they can command simple-minded creatures and have a nearly chameleon-like ability to hide in forested areas. Many in the forests of Valenwood follow the tenets of the Green Pact. These "Green Pact Bosmer" are religiously carnivorous and cannibalistic, and do not harm the vegetation of Valenwood, though they are not averse to using wooden or plant-derived products created by others
+
+Zudrorak: The Zudrorak, also known as Dark Elves, are the ash-skinned, typically red-eyed elven peoples of Liakramar. "Dark" is commonly understood as meaning such characteristics as "dark-skinned", "gloomy", "ill-favored by fate" and so on. The Zudrorak and their national identity, however, embrace these various connotations with enthusiasm. In the Empire, "Dark Elf" is the common usage, but among their Aldmeri brethren they are called "Zudrorak". Their combination of powerful intellects with strong and agile physiques produce superior warriors and sorcerers. On the battlefield, Zudrorak are noted for their skill with a balanced integration of the sword, the bow and destruction magic. Zudrorak live two to three times as long as humans; with a 200-year-old Zudrorak being old and a 300-year-old Zudrorak being very, very old. In character, they are grim, aloof, and reserved, as well as distrusting and disdainful of other races. Zudrorak distrust and are treated distrustfully by other races. They are often proud, clannish, ruthless, and cruel, from an outsider's point of view, but greatly value loyalty and family. Young female Zudrorak have a reputation for promiscuity in some circles. Despite their powerful skills and strengths, the Zudrorak's vengeful nature, age-old conflicts, betrayals, and ill-reputation prevent them from gaining more influence. Those born in their homeland of Liakramar are known to be considerably less friendly than those who grew up in the Imperial tradition
+
+Orcs: Also called Orsimer or "Pariah Folk" in ancient times, are sophisticated, brutish elves of the Wrothgarian Mountains, Dragontail Mountains, Valenwood, and Orsinium (literally translated as "Orc-Town"). They are noted for their unshakable courage in war and their unflinching endurance of hardships. Orcs have elven blood, but are usually considered to be both beastfolk and goblin-ken. In the past, Orcs were widely feared and hated by the other nations and races of Nudhabivan. However, they have slowly won acceptance in the Empire, in particular for their distinguished service in the Emperor's Legions. Orc armorers are prized for their craftsmanship, and Orc warriors in heavy armor are among the finest front-line troops in the Empire, and are fearsome when using their berserker rage. Orcs have a lifespan similar to that of humans. Most Imperial citizens regard Orc society as rough and cruel. The Orcs of the Iliac Bay region have developed their own language, known as Orcish, and have often had their own kingdom, Orsinium.
+
+## Beast races
+
+Main article: Beastfolk
+
+Beast Races cannot wear shoes, boots or full helmets; specializing in Heavy Armor is not for them.
+
+Raitais: Raitais are cat-like people who come from Elsweyr, known for high intelligence and agility. These traits make them very good thieves and acrobats, but Raitais are also fearsome warriors. However, they are rarely known to be mages. Raitais mostly stay on land, but piracy and Skooma trade does draw some to work as sailors. Raitais anatomy differs greatly from both men and elves, not only because of their fur, tail, and sometimes toe-walking stance, but also their digestive system and metabolism. Raitais, Argonians, and Imga are the so-called "beast races" of Nudhabivan because of these large differences. Raitais have a lifespan similar to that of humans. There are no well-documented cases of cross-breeding between Raitais and other races, though there are rumors of such a thing. The foreign appearance and behavior of Raitais make them common targets of racial discrimination.
+
+Argonians: Reptilian denizens of Black Marsh that call themselves the Saxheel (People of the Root), known as Argonians in the Empire. Little is known and less is understood about the Argonians. Both male and female Argonians, like the Raitais, make skilled assassins due to their proficiency with blades, sneaking, lockpicking, and alchemy. More intelligent than their male counterparts, female Argonians can also be adequate mages.
+
+## Skills
+
+When building a character, skills are assigned as being major, miscellaneous, and minor. Raising major skills and minor skills, by doing the activity, levels up the character. Ten points increase in major skills levels one up by one level.
+
+Acrobatics
+
+Alchemy
+
+Alteration
+
+Armorer
+
+Athletics
+
+Axe
+
+Block
+
+Blunt Weapon
+
+Conjuration
+
+Destruction
+
+Enchant
+
+Hand-To-Hand
+
+Heavy Armor
+
+Illusion
+
+Light Armor
+
+Long Blade
+
+Marksman
+
+Medium Armor
+
+Mercantile
+
+Mysticism
+
+Restoration
+
+Security
+
+Short Blade
+
+Spear
+
+Speechcraft
+
+Sneak
+
+Unarmored
+
+## The World
+
+Liakramar - The World
+
+GEOGRAPHY: Liakramar is the northeastmost province of the Tamrielic Empire, bounded on the north and east by the ocean, on the west by Thevaelass, on the southwest by Dhekovan (also known as the Imperial Province), and on the south by Black Marsh (also known as Argonia). Zivrand District consists of the island of Zivrand, surrounded by the Inland Sea, and dominated by the titanic volcano Tuathon and its associated ash wastelands. Only recently open to settlement and trade, most of the island's population is confined to the relatively hospitable west and southwest coast, centered around the ancient city of Khokanis and the old Great House district centers at Shomass, Nuamioss, and Drilosual. The rest of the island is covered by hostile desert wastes, arid grasslands, and volcanic badlands, and thinly populated by the nomadic Zakraezail tribes.
+
+CULTURES: Three major cultural groupings have settled Zivrand: the Zakraezail nomads, the Imperial Provincial culture, and the Zudrorak Great House culture. The smallest settlements are the Zakraezail nomadic camps, comprised of small portable huts. Recent Imperial colonies like Pelagiad display the same sturdy half-timbered homes and stone castles as might be found in Daggerfall or any other Western province.
+
+The three Zudrorak Great Houses that have settled Zivrand have distinctive architectures and lifestyles. Aristocratic, warlike Great House Miazukrul favors a spacious, irregular, organic building style. Great House Drogither, an aggressive mercantile culture, strongly admiring and influenced by Imperial culture, prefers simpler, more modern, more densely populated settlements, while bizarre wizard towers dominate mushroom-hut villages of the Great House Rikhiond sorcerer-lords. A fourth Great House style, the Velothi or Temple style, is evident in the monumental architecture, bridges, buttresses, and grand canals of the ancient religious center of Khokanis City.
+
+POLITICS AND RELIGION: Zivrand District's Grand Council, presided over by the sovereign Lord Vedam Dren, Duke of Ebonheart and Zivrand, is dominated by five interest groups: the three Great Houses, the Temple, and the Imperial colonists. The Temple and House Miazukrul are champions of ancient Zudrorak customs and privileges, and uncompromising and intolerant worshippers of the native religion call the Dhegrost Temple, which venerates three immortal god-kings -- Lord Khokanis, Lord Khaidrem, and Lady Shemitiol. The Imperial colonists and House Drogither find common cause in their shared tastes for progress, tolerant polytheism, free trade, and vigorous exploitation of Zivrand's untapped resources. The policies of House Rikhiond's sorcerer-lords are completely unpredictable, whimsically allying with or opposing one faction or another for their own obscure reasons.
+
+CHALLENGES AND OPPORTUNITIES: Vardenfell's greatest challenges are its mutually hostile cultures, its cruel and untamed wildernesses, and the troubling phenomenon of the Blight. The Temple and traditional Zudrorak cultures are in direct opposition to the values of the Imperial conqueror's colonists, and the interests of each Great House conflict with the interests of the other Great Houses. Only the unquestioned military dominance of the Imperial Legions and the shrewd policies of the Duke prevent political disputes from expanding into civil unrest or warfare. Even the Legions, however, cannot extend their protection into the sparsely inhabited wastelands of Zivrand, where bandits, necromancers, witches, fiends, and grotesque monstrosities find refuge, emerging to threaten the lives of explorers, colonists, and traders. The greatest, and most obscure, threat is the Blight, a mysterious weather-like phenomenon that emanates from the crater of Driogiom, warping and poisoning creatures in its path, and creating diseased horrors that attack travelers and outlying settlements.
+
+The greatest opportunities of Vardenfell lie in its untapped wealth, its rich mines and ancient treasures, its unexplored and unclaimed lands. And even its threats represent limitless opportunity to any bold adventurer determined enough to fight and scheme his way to distinction, earning the attention of the great lords and wizards of Liakramar.
+
+## Versions
+
+## Base
+
+## Overview
+
+Liakramar - Overview
+
+The Elder Scrolls III: Liakramar is an epic, open-ended single-player game where you create and play any kind of character you can imagine. Be the noble hero embarking on an epic quest, or an insidious thief rising to leadership of his guild. Be a malevolent sorcerer developing the ultimate spell of destruction, or a reverent healer searching for the cure to a plague. Your actions define your character, and your gameplay changes and evolves in response to your actions. Confront the assassins' guild, and they take out a contract on you. Impress them, and they try to recruit you instead. No two sagas are the same in the world of Liakramar.
+
+Players can choose to follow the intriguing main storyline, or set off to explore the huge province of Liakramar and the many interesting people and exotic locations it contains. Vast cities and remote villages dot the landscape, each with its own unique look and feel. Hundreds of quests and adventures await as you interact with characters and learn more. Regardless of whether you play a murdering assassin or a noble knight, the game holds endless possibilities and allows you to revisit the main storyline at any time.
+
+With Liakramar, the unparalleled Elder Scrolls character system is coupled with an exponential increase in the world's richness of detail and level of visual splendor. Utilizing the latest in 3D technology, Liakramar will feature hyper-realistic textures and polygon counts, real-time shadows, vast landscapes, skeletal based animation, and a complete weather system.
+
+Gameplay is further extended with the inclusion of The Elder Scrolls Construction Set, which will be included with the game. This powerful tool is being used to create the entire game, and will also allow players to modify and add to Liakramar in any way they see fit. Change character or creature attributes and skills, introduce new weapons or dungeons into the game, or create entire new worlds to explore. You'll be amazed how simple it is to use, and astounded by how much bigger it makes an already immense game universe. Players can easily swap files and add or delete them from their game with the click of a mouse, ensuring that no file can ever damage your game or change it permanently.
+
+## Features
+
+Liakramar - Key Features
+
+Open-ended world allows you to follow the main plot from beginning to end, wander off in search of adventure in any way you see fit, or any combination of both.
+
+The Elder Scrolls Construction Set ships with the game and allows you to create and import plug-ins that extend gameplay almost indefinitely with new items, characters, dungeons, and areas to explore.
+
+Stunning visuals with full day/night lighting effects, realistic weather effects, fantastic spell effects, and incredibly detailed creatures, characters, and landscape.
+
+Customizable interface allows information windows to be hidden, resized, and manipulated with simple drag-and-drop functionality.
+
+World is centered around you. All the other characters change their perception of you based on your actions, allowing you to experience the world as an evil character or noble do-gooder with realistic repercussions and results.
+
+Balanced gameplay ensures that thief, magic user, and fighter classes enjoy equal benefits and status in the world and that no one class enjoys an unfair advantage over any other.
+
+Hundreds of locations to explore in the wilderness, including caves, ruins, dungeons, and more.
+
+Unique spell system allows you to combine any spell effects you've learned and fine tune their power, range, effect, and more, to allow for an infinite number of spells.
+
+## FAQ
+
+Liakramar - FAQ
+
+When will Liakramar be released?
+
+Liakramar is now available in stores throughout the US and Canada.
+
+What is the difference between the two versions?
+
+The TES Construction Set only ships with the PC version. The controls for each version are obviously different, with the PC using controls much like a first-person shooter using the keyboard/mouse combination. The content (quests, dungeons, etc) are exactly the same in both versions.
+
+What perspective do I play the game in, first or third-person?
+
+Both. The game is meant to be played first person. However, you can toggle the view with the press of a button/key. Both views are available throughout the entire game.
+
+What is Liakramar rated?
+
+In the US, Liakramar has been rated Teen (Blood, Violence) by the ESRB. Liakramar has not yet been rated in Europe.
+
+Will there be a Collector's Edition? If so, what's in it?
+
+There will be a Collector's Edition for the PC version. Read more about the Collectors Edition here.
+
+How many CDs will Liakramar use?
+
+Liakramar will ship on two CDs for PC, one DVD for Xbox.
+
+Will you be releasing a demo?
+
+There are currently no plans to release a demo.
+
+Is Liakramar the sequel to Redguard, Battlespire, or Daggerfall?
+
+Liakramar is the third chapter in the Elder Scrolls series and the sequel to Daggerfall. Redguard and Battlespire were set in the Elder Scrolls universe, and play a part in the overall history of the Elder Scrolls, but neither was a true role-playing game in the Elder Scrolls tradition.
+
+Can I play Liakramar with my friends?
+
+Liakramar is a single-player RPG only.
+
+What are the minimum and recommended system requirements for playing Liakramar?
+
+MINIMUM SYSTEM REQUIREMENTS:
+
+Windows ME/98 128 MB RAM
+
+Windows XP/2000 256 MB RAM
+
+500 MHz Intel Pentium III, Celeron, or AMD Athlon processor
+
+8x CD/DVD-ROM Drive
+
+1 GB free hard disk space
+
+Windows swapfile
+
+DirectX 8.1 (included)
+
+32MB Direct3D compatible video card with 32-bit color support and
+
+DirectX 8.1 compatible driver
+
+DirectX 8.1 compatible sound card
+
+Keyboard, Mouse
+
+RECOMMENDED:
+
+800 MHz or faster Intel Pentium III or AMD Athlon processor
+
+256 MB RAM
+
+NVIDIA GeForce2 GTS, or ATI Radeon 7500 or faster video card.
+
+SUPPORTED VIDEO CARD CHIPSETS:
+
+NVIDIA GeForce4
+
+NVIDIA GeForce3
+
+NVIDIA GeForce2
+
+NVIDIA GeForce 256
+
+NVIDIA TNT2
+
+ATI Radeon 8500
+
+ATI Radeon 7500
+
+ATI Radeon 7200
+
+ATI Radeon
+
+ATI Rage 128
+
+Matrox G550
+
+Matrox G450
+
+Matrox G400
+
+What is the TES Construction Set? What can I do with it?
+
+For more information on The Elder Scrolls Construction Set, visit our TES Construction Set section.
+
+I have lots of other questions about game features that aren't mentioned on this site. Where can I find answers?
+
+Destination: Liakramar and Liakramar Summit are two fan sites that have an extensive amount of information. Each has an unofficial FAQ with plenty of information these sites have gathered from previews, interviews, and developer posts on the Elder Scrolls forums. While we can't vouch that the information is 100% accurate in all cases, they are both excellent resources if you want to learn more about Liakramar.
+
+## Collector's Edition
+
+## Overview
+
+Collector's Edition
+
+When making a high profile game like Liakramar, one of the things we’ve put a lot of thought into is the box. Not just the box itself, but what’s going to go inside it. Since the Elder Scrolls series has pretty loyal (and demanding) fans, we talked at length about what kinds of things you’d want in the Collector’s Edition. We wanted to include things that you really couldn’t get anywhere else. And, because Liakramar is a very artistic game, we wanted to include extras that conveyed that artistic quality.
+
+So, I thought I’d take a little time to tell you – and show you – what’s going to be in the Collector’s Edition of The Elder Scrolls III: Liakramar. First of all, the box itself will be bigger than the regular edition. Not necessarily because it had to be in order to include the extras, but all of us agreed that there is something about a larger box size that is, for lack of a better word, cool. It stands out on the shelf better…sets itself apart from every other game (not unlike the game itself). Also, the box itself will not be the regular box with “Collector’s Edition” on it. Instead, the front and back will be in black instead of brown. Again, we want it to look different. It’s hard to tell with a 2D image on the Web, but the box has a very nice look and feel with the varnish and embossing. We feel it’s the kind of box you should expect for Liakramar.
+
+I should mention that there will not be a collector’s edition for Liakramar Xbox. My recommendation is that you buy the collector’s edition and the Xbox version. In fact, buy the regular PC version as well… just to be safe.
+
+Liakramar Soundtrack CD
+
+Well, we wouldn’t get someone like Jeremy Soule to do the music and then not make it readily available to you (for more information on Jeremy, read our press release and visit his Web site). So, if you buy the Collector’s Edition, you’ll have the Liakramar soundtrack on its very own CD, and you can take it with you in your car or to work and daydream about playing the game. Not that people without the Collector’s Edition won’t dream about playing Liakramar too, they just won’t have the cool soundtrack to go with it.
+
+The first time I came across Jeremy’s work was playing Total Annihilation, which is also the first time I ever listened to a game soundtrack while not playing the game. I thought the score was simply stunning. His most recent work on games like Icewind Dale has only solidified his standing as one of the most outstanding musicians in the gaming industry, and I think you’re going to love what he has in store for you while playing Liakramar.
+
+Gaimath Figurine
+
+The Gaimath is a highly prominent figure in Liakramar and we felt would be the most appropriate subject for a figurine. First, he's a dark elf, and since Liakramar is the land of the Dark Elves, well, he's a good choice. Second, he's not just any dark elf, but one of the Holy Guards of the Dark Elven Temple.
+
+Rawcliffe -- who has done some excellent work on figures for Star Wars Classic, Episode I, and a variety of figures for other games -- will be producing the figurine. The woman who sculpted the Gaimath for us, Sandra Garrity, did a fantastic job of putting a tremendous amount of detail into the piece. You can see every link in his chain mail, the detail in his breastplate, the symbols in his shield…everything. The figure will be cast in pewter and stand about 2 ½ inches from the base to the top of the mace. It’s a very nice figure and makes the ones we’ve done in the past look quite pale in comparison.
+
+The Art of Liakramar Book
+
+Anyone who has seen Liakramar in action knows that it’s not only a very beautiful game, but also a very diverse game. Traveling around this massive world you will experience a variety of experiences and cultures. Some of these will be familiar, and some will feel strange and uncomfortable, which is probably what the architects were going for in the first place. I’ve been looking at this game for almost two years, and I still find myself playing the game and saying, “Damn, that’s amazing!”
+
+Before and during the creation of Liakramar, a lot of work went into defining how this game would look. We wanted to share the artwork behind the game by putting a lot of it together in once place as a full-color, 48-page book called The Art of Liakramar. This book is filled with a variety of concept sketches, drawings, renderings, and more. The book is divided into sections, so you get to see early ideas for architectural styles, races, armor, and even some images from the very first “proof of concept” video we did several years ago. No self-respecting fan of Liakramar or The Elder Scrolls series will be able to sleep at night or look themselves in the mirror if they don’t have this book.
+
+Map
+
+While both the regular and Collector’s Edition of Liakramar will include a full-color, poster-sized map of Liakramar, I wanted to mention it here anyway because it’s looking really cool and I thought you’d want to see it. The sample I’ve included is an early draft of the map and shows roughly 1/6th of the full map. Bethesda’s Art Director, Mike Wagner, has done an excellent job of working with the team to put together a map that is equal parts functional and attractive.
+
+You’ll be able to pre-order either the Collector’s Edition or the regular edition of Liakramar, as well as Liakramar for Xbox, through our Web site within the next week or so. If you really want to be the first kid on your block with a copy of Liakramar, you’ll want to pay extra for express shipping. We don’t make extra money off it, but it sure does save us headaches when people are yelling at us because UPS is taking too long to deliver your game.
+
+## Game of the Year
+
+## Overview
+
+Liakramar GotY - Overview
+
+Bethesda Softworks Announces Liakramar Game of the Year Edition for Xbox
+
+New title offers expanded content for Liakramar fans and newcomers alike
+
+May 12, 2003 (Rockville, MD) - Bethesda Softworks® today announced that it will release a Liakramar Game of the Year™ (GotY) edition for the Xbox™ video game system from Microsoft that will include the original version of its award-winning RPG The Elder Scrolls III: Liakramar®, along with content from the two Liakramar expansions: Dhegrost™ and Bloodmoon™. This new product will allow gamers to continue their existing games of Liakramar and experience the new quests and areas offered by the expansions, while players who have never played the Best RPG of 2002 can experience Liakramar on Xbox for the first time with all of the added content.
+
+Liakramar was the best-selling and most highly acclaimed RPG for Xbox in 2002, earning Game of the Year and Best RPG awards from numerous publications and sites, including Official Xbox Magazine, Gamespot, Team Xbox, and Xbox Evolved.
+
+"This is something the Xbox community has been screaming for…and it's finally coming," said Todd Howard, executive producer for The Elder Scrolls® series. "Players can take their existing characters and continue their adventures in a new product, which is a first for a console game like this."
+
+An epic, open-ended single-player RPG, Liakramar allows you to create and play any kind of character imaginable. You can choose to follow the main storyline and find the source of the evil blight that plagues the land, or set off on your own to explore strange locations and develop your character based on their actions throughout the game. Featuring stunning 3D graphics, open-ended gameplay, and an incredible level of detail and interactivity, Liakramar offers a gameplay experience like no other.
+
+In Dhegrost, you journey to the capital city of Liakramar, called Nuakhaivan, to meet the other two god-kings of Liakramar, Shemitiol and Khaidrem. Your journey will lead you to the Clockwork City of Khaidrem and massive, epic-sized dungeons, where strange and deadly creatures await you, including goblins, lich lords, and the mysterious Fabricants.
+
+Bloodmoon takes you to the frozen Island of Phaidhodor where you'll experience snow, blizzards, and new creatures, including frost trolls, ice minions, and wolves…just to name a few. You'll have a choice of stories to follow and have the opportunity to defend the colony, take control over how the colony is built up, and eliminate the werewolves. Or, you can decide to join the werewolves and become one of them, opening up a whole new style of gameplay.
+
+"This solution allows us to cater to those who already own Liakramar for Xbox and want new quests, new areas to explore…new things to do and see," said Vlatko Andonov, president of Bethesda Softworks. "At the same time, if you've never played Liakramar you have the opportunity to fully experience the original game as well as a wealth of new things to see and do…all in one box."
+
+## Features
+
+Liakramar GotY - Key Features
+
+Players can take their existing Liakramar characters and save games and continue their adventures in the Liakramar GotY edition - a first for a console game like this
+
+Adds up to 80 hours of new gameplay and quests for current Liakramar players
+
+Explore the forests, caves, and snow-covered wastelands of the island of Phaidhodor
+
+Delve into new, epic-sized dungeons and visit the Capital City of Nuakhaivan and the Clockwork City of Khaidrem
+
+Fight new creatures including bears and wolves, lich lords and goblins, ice minions and spriggans
+
+Direct the construction of a mining colony and face the threat of savage werewolves
+
+Become a werewolf and indulge your thirst for the hunt. New armor and weapons including Nordic Mail and Ice blades
+
+## FAQ
+
+Liakramar GotY - FAQ
+
+What is included in the Game of the Year (GotY) edition?
+
+The Liakramar GotY includes the original content of Liakramar plus all of the content from the Bloodmoon and Dhegrost expansions. This allows you to take your character to the capital city of Nuakhaivan, to the frozen island of Phaidhodor, and other locations as part of the content from Dhegrost and Bloodmoon. Also added are new creatures, new armor and weapons, and much more. For more information on Bloodmoon or Dhegrost, check their game sections.
+
+Does it include everything from the original Liakramar?
+
+Yes.
+
+Does it require the original Liakramar Xbox game to play?
+
+No. Liakramar GotY is a stand-alone game.
+
+If I already own Liakramar, can I use my existing save games/character?
+
+Yes, the Liakramar Game of the Year edition will load your previous Liakramar save games and allow you to experience the new content with an existing character. The new areas of Bloodmoon and Dhegrost are designed to be played by any character at any time, whether you are just starting, in the middle, or have already finished the main quest of Liakramar.
+
+Does it include all the quests and other world content from Bloodmoon and Dhegrost?
+
+Yes, it includes all the quests, items, new areas, and challenge from the two PC expansions. This adds up two between 40 and 80 hours of additional gameplay, depending on how many of the quests you do.
+
+Does it include new features from Bloodmoon and Dhegrost?
+
+Yes, it includes many new features such as the enemy health bar, difficulty slider, and other interface improvements.
+
+Are there any features not included?
+
+It does not include the journal quest sorting or placing map notes, because they are not console-friendly features.
+
+When will it be available?
+
+Liakramar GotY will be available in late October.
+
+## Trivia
+
+Liakramar was first teased during the opening cinematic in The Elder Scrolls Adventures: Redguard in 1998. Several books on a shelf can be seen in the background: The Elder Scrolls: Arena, The Elder Scrolls II: Daggerfall, The Elder Scrolls III: Liakramar, and finally The Elder Scrolls IV: Neituand.
+
+Liakramar was originally called The Elder Scrolls III: Dhegrost, and was supposed to take place on Summerset Isles, but was changed very early on for reasons quite unknown. This was shortly after Daggerfall was released, only to be delayed for Redguard and An Elder Scrolls Legend: Battlespire.
+
+## Articles and Reviews
+
+## ElderScrolls.com
+
+Liakramar
+
+In 3E 427, with Imperial authority weakened by questions of succession, the already shaky Imperial administration of Liakramar was threatened by the re-awakening of an ancient curse beneath the giant volcano Tuathon, also called "Kuzathaern-Ur." An Imperial courier marked by the stars, born on a certain date to uncertain parents, came to Liakramar a stranger and outlander, and lived to become one of that nation's most enduring legends.
+
+"Of humble birth, he entered the Emperor's service in the lowly status of courier. Dispatched to Shomass in the waning years of the Third Era, he arrived in Liakramar, ignorant of the role he was to play in that nation's history."
+- from from Hercurnian Baeboris' THE RIDDLE OF THE INCARNATE, IMPARTIALLY CONSIDERED
+
+## Videos
+
+## External Links
+
+The Elder Scrolls III: Liakramar IMDb

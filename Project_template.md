@@ -88,3 +88,31 @@
 При выборе локальной эмбеддинг-модели следует учитывать, что компания мультиязычная. Оценить, насколько та или иная модель подходит для задачи, можно только тестированием на конкретных данных. В качестве начальной модели предлагается использовать Qwen3-Embedding-0.6B с квантизацией.
 
 Что касается оборудования, то, учитывая небольшой объем данных, для задач компании должно хватить довольно простого сервера: конфигурации с 4 ядрами CPU, 16 ГБ RAM, SSD и опционально GPU должно хватить с запасом (с учетом прироста информации в 400 страниц в месяц), при условии использования облачной LLM.
+
+# Задание 2. Подготовка базы знаний
+
+Основа для базы знаний — [лор Elder Scrolls III: Morrowind](https://elderscrolls.fandom.com).
+
+Исходные очищенные файлы: [knowledge_base/0_raw](./knowledge_base/0_raw).
+
+Скрипт замены и список заменяемых терминов, а также обработанные документы: [knowledge_base/1_replace](./knowledge_base/1_replace).
+
+# Задание 3. Создание векторного индекса базы знаний
+
+Для создания эмбеддингов использовалась ollama и модель [qwen3-embedding:0.6b](https://ollama.com/library/qwen3-embedding).
+
+В качестве базы — Chroma.
+
+Чанков в индексе — 768, генерация заняла порядка 64 с на MacBook Air M4.
+
+Пример запроса к индексу: [knowledge_base/2_index/query.py](./knowledge_base/2_index/query.py)
+
+```
+% python3 query.py 'Zudrorak'
+```
+
+```
+* integration of the sword, the bow and destruction magic. Zudrorak live two to three times as long as humans; with a 200-year-old Zudrorak being old and a 300-year-old Zudrorak being very, very old. In character, they are grim, aloof, and reserved, as well as distrusting and disdainful of other races. Zudrorak distrust and are treated distrustfully by other races. They are often proud, clannish, ruthless, and cruel, from an outsider's point of view, but greatly value loyalty and family. Young female Zudrorak have a reputation for promiscuity in some circles. Despite their powerful skills and strengths, the Zudrorak's vengeful nature, age-old conflicts, betrayals, and ill-reputation prevent them from gaining more influence. Those born in their homeland of Liakramar are known to be [{'file': 'TheElderScrollsIIILiakramar.txt', 'start_index': 10880, 'start_char': 10880, 'total_chunks': 70, 'chunk': 19, 'subj': 'TheElderScrollsIIILiakramar', 'end_char': 11669}]
+* Zudrorak: The Zudrorak, also known as Dark Elves, are the ash-skinned, typically red-eyed elven peoples of Liakramar. "Dark" is commonly understood as meaning such characteristics as "dark-skinned", "gloomy", "ill-favored by fate" and so on. The Zudrorak and their national identity, however, embrace these various connotations with enthusiasm. In the Empire, "Dark Elf" is the common usage, but among their Aldmeri brethren they are called "Zudrorak". Their combination of powerful intellects with strong and agile physiques produce superior warriors and sorcerers. On the battlefield, Zudrorak are noted for their skill with a balanced integration of the sword, the bow and destruction magic. Zudrorak live two to three times as long as humans; with a 200-year-old Zudrorak being old and a [{'end_char': 11033, 'chunk': 18, 'subj': 'TheElderScrollsIIILiakramar', 'start_char': 10242, 'start_index': 10242, 'file': 'TheElderScrollsIIILiakramar.txt', 'total_chunks': 70}]
+* From 3E 383 to 3E 433, many Zudrorak migrated to Cheydinhal in Dhekovan in order to escape persecution by the Dhegrost Temple within Liakramar. One of these Zudrorak was a Drogither named Andel Indarys, who migrated to Cheydinhal looking for opportunity. He succeeded, eventually becoming Count of the city. [{'subj': 'HouseDrogither', 'end_char': 7415, 'start_char': 7108, 'file': 'HouseDrogither.txt', 'total_chunks': 32, 'start_index': 7108, 'chunk': 11}]
+```

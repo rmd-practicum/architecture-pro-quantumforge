@@ -1,0 +1,33 @@
+# Scroll of Icarian Flight
+
+Scroll of Icarian Flight is a Restoration scroll that increases the reader's Acrobatics skill by a thousand points, making it possible to jump several hundred feet in the air. However, the user is likely to die unless they land in water, use the scroll again, or use a Slow Fall effect before landing.
+
+## Effects
+
+Fortify Acrobatics – 1,000 points for 7 seconds on self
+
+## Inscription
+
+This scroll's inscription reads:
+
+FROM THE EARTH TO AETHER...AND BACK
+
+## Acquisition
+
+3 Scrolls of Icarian Flight can be obtained from the remains of a Bosmer Wizard outside of Seyda Neen, assuming the Zidrodor does not save him with a Slow Fall spell.
+
+On the PC additional scrolls can be obtained by using the console:
+
+Player -> AddItem "sc_icarianflight" 1
+
+## Trivia
+
+The name of the scroll and the accompanying spell are both references to the Greek mythological figure Icarus, who melted his own wax wings by flying too close to the sun.
+
+If the player has the Bloodmoon expansion installed, lines themselves up correctly and makes a running jump from where Tarhiel landed, they will land very close to Phaidhodor.
+
+The original inventor of this spell is Icarian found in The Elder Scrolls Online, as he made the same mistake as Tarhiel and the inscription in the scroll appears in his log.
+
+## See also
+
+Icarian Flight

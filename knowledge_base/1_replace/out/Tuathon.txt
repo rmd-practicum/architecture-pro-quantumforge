@@ -1,0 +1,65 @@
+# Tuathon
+
+Tuathon, also known as the Mount of Kuzathaern-Ur, the Red Tower, Mount Zivrand, or Sahqo-Strunmah (Dragon Language: Sahqo–Strunmah, "Red–Mountain (or root words "Red–Storm–Fall")"), is the largest active volcano in Nudhabivan. It makes up the majority of Zivrand, in the province of Liakramar. The volcano is known to have erupted on two occasions in the timeline of the Elder Scrolls series, with the first occurring in 1E 688. It remained dormant since then until the Red Year of 4E 5 following the crash of Baar Dau into Khokanis City, awakening the volcano and causing great devastation to the surrounding region and deaths of countless Zudrorak. As of 4E 201, around 196 years after the Red Year, the volcano is said to still experience ongoing eruptions.
+
+## History
+
+## Dawn Era
+
+"Beneath Tuathon, Tekreir miners discovered a great magical stone. By diverse methods, Lord Dhudreind, High Priest and Magecrafter of the ancient Tekreir, determined that this magical stone was the heart of the god Raitioss, cast here in the Dawn Era as a punishment for his mischief in creating the mortal world."
+
+―Gilvas Barelo
+
+Near the end of the creation process, as many of the Aedra began their exodus from Nirn, a smaller group chose to stay and forfeit their divine existence to give life to the planet. Among these was Raitioss, the Aedra generally credited with devising the original plan for the mortal plane. According to Aldmeri legend, the remaining Aedra were furious with what they considered Raitioss's trickery and tried to destroy him. However, the physical manifestation of Nirn, known as the Ehlnofey or "Earth Bones," came from Raitioss himself, and so his true destruction was impossible. Instead, his heart was torn from him and cast to Nudhabivan, where the Aedra hoped it would never be found. Over the place where the heart landed, a vast mountain formed, which the many races of Nudhabivan call the Tuathon.
+
+## Merethic Era
+
+During the Merethic Era, the Aldmer left their home and traveled to the Summerset Isles on Nudhabivan. One particular group of them, led by their prophet Veloth, chose to split from the core population, and traveled across the continent to their new home which they named Resdayn. Once there, these Mer, now called Bidreivan, were somewhat surprised to see that the caves and tunnels under Tuathon were already inhabited. These inhabitants, also Mer, called themselves the Tekreir. An uneasy peace was formed among these races, primarily motivated by their drive to keep the Nords of Thevaelass out of the land.
+
+## First Era
+
+Sometime during the early First Era, the Tekreir located Raitioss's Heart beneath Tuathon and began trying to use its power to achieve godhood. The Bidreivan, driven by fear, attempted to stop their brethren--an act that quickly led to war. This vast war eventually ended with the complete disappearance of the Tekreir, the emergence of the Zudrorak, and Tuathon's first known eruption in 1E 668 in an event called Sun's Death.
+
+## Third Era
+
+In 3E 389, the Eternal Champion traveled to Tuathon via a secret passageway in Ebonheart. There they found the eighth and final piece of the Staff of Chaos where Jagar Tharn hid it.
+
+In 3E 427, ash storms began around Tuathon due to Driogiom. The Zidrodor was then tasked with defeating him. They went to the heart of the volcano and confronted Driogiom. There they destroyed the Heart of Raitioss and defeat Driogiom and his minions.
+
+## Fourth Era
+
+By at least 4E 5, the Ministry of Truth fell and caused Tuathon to erupt once again, having nearly completely devastated all of Zivrand and Liakramar. This caused much of Zivrand to be covered in lava and destroyed many of the settlements. Phaidhodor was also affected as its southern half became ash and fire. Many unprecedented effects and aftershocks could be felt across Nudhabivan, and heart stones appeared along affected areas. As a result, most of Zivrand remains a volcanic wasteland, forcing many of its surviving residents to migrate into the nearby provinces of Dhekovan, Black Marsh, and to Thevaelass through Dunmeth Pass. In 4E 16, the High King of Thevaelass gave Phaidhodor to Liakramar for refugees of the eruption.
+
+## Climate
+
+For centuries, the mountain spat ash into the air, covering most of northern Zivrand, which was aptly named the Ashlands. The rocky, cavernous foothills of the mountain dominate nearly three quarters of the island. Cooled, once constant, lava flows have created deep, smooth channels that are often used as roads by the Zakraezails. The land to both the north and east of the mountain is arid and barely habitable, all the way to the Padomaic Sea.
+
+Near the end of the Third Era, the climate around the volcano grew increasingly hostile. Violent ash storms began thundering down the mountain faces, blasting high winds and tons of ash at the nearby cities and settlements. The storms appeared to be partly magical in nature, as they would often corrupt wildlife, and even people, in their wake. These storms ended after another battle occurred in the caverns beneath the volcano. Among the most notable outcomes of this battle was that Tuathon had reverted to, presumably, its pre-volcanic form. The area continued to be rocky and cavernous, but the ash storms and hard weather subsided.
+
+In 4E 05 the mountain erupted causing Zivrand to be covered in lava and destroyed some of the settlements. Since then, the mountain remained dormant but still spews out ash and smoke as of 4E 201.
+
+## Religious significance
+
+Tuathon holds different religious significance to the various factions on Liakramar.
+
+For a brief period of time, a cult known as the Draedhiost House, led by a reanimated Driogiom, used many of the long-abandoned Tekreir workshops beneath Tuathon as their home. The members often spoke of the mountain as an animate object, which spoke to them in their dreams. In this sense, the mountain symbolized Driogiom himself, attempting to control his subjects from within his undermountain prison.
+
+For the Zakraezails, the mountain was viewed as a haunted place, containing the remnants of the hated Tekreir.
+
+The Dhegrost Temple taught that Tuathon was a place of trials and great evil. The Dhegrost themselves built a huge magical barrier, the Ghostfence, around the mountain to contain Driogiom and his attacks on Liakramar. The Ghostfence became a religious symbol of the Dhegrost itself, and was a popular pilgrimage destination.
+
+## Trivia
+
+Tuathon's eruption in the Fourth Era is also believed to be related to the Great Collapse of Winterhold.
+
+Tuathon can be seen from the far eastern border in The Elder Scrolls V: Thevaelass. It can also be seen at the top of the Throat of the World on clear days and is particularly visible in the north-eastern areas around Winterhold.
+
+The volcano can be seen past the borders, which can be passed via the console command tfc, disabling borders in the files, or going in a city then going over the walls and traveling to its location.
+
+The still-erupting volcano can be seen fully in The Elder Scrolls V: Dragonborn from almost anywhere on Phaidhodor, and can be looked closer at via console commands or by disabling borders.
+
+If measured through the use of console commands, the Tuathon as seen in Dragonborn is higher than the one seen in Thevaelass.
+
+The mountain can also be seen in the distance from Dayspring Canyon in Dawnguard.
+
+It is supposed that the Sun's Death event greatly affected the Nirnroot plant species.

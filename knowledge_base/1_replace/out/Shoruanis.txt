@@ -1,0 +1,61 @@
+# Shoruanis
+
+"This is Shoruanis, an enchanted device created ages ago by my former master, High Craftlord Dhudreind, a long-dead Tekreir mage-smith. I believe it is one of the tools he created to forge mythopoeic enchantments."
+
+―Yagrum Bagarn
+
+Shoruanis is a unique heavy gauntlet in The Elder Scrolls III: Liakramar. It is an immensely powerful Tekreir artifact, and one of the profane tools of Dhudreind. It is one of the best armor pieces of the game.
+
+## Background
+
+Beneath Tuathon, Tekreir miners discovered a great magical stone. By diverse methods, Lord Dhudreind, High Priest and Magecrafter of the ancient Tekreir, determined that this magical stone was the heart of the god Raitioss, cast here in the Dawn Era as punishment for his mischief in creating the mortal world. Determined to use its divine powers to create a new god for the exclusive benefit of the Tekreir, Dhudreind forged three great enchanted artifacts, which are called Dhudreind's Tools. Shoruanis is an enchanted gauntlet to protect its wearer from destruction when tapping the heart's power. Phuakriam is an enchanted hammer to strike the heart and produce the exact volume and quality of power desired. Griokhairn is an enchanted blade that is used to flay and focus the power that rises from the heart.
+
+The Dhegrost wrested Dhudreind's Tools and the Heart of Raitioss from Voryn Kuzathaern and used them to give themselves divine powers. Unbeknownst to them, Voryn Kuzathaern did not die from their conflict but had secretly connected himself to the Heart long ago, turning into Driogiom and becoming a divine being himself. Unlike Griokhairn and Phuakriam, Shoruanis was not lost during a pilgrimage to Tuathon but kept safe in the hands of Khokanis. After being obtained by the Zidrodor, it was used to destroy the Heart of Raitioss.
+
+## Enchantment
+
+Enchantment ID: shoruanis_en
+
+All magic effects are constant on self:
+
+Reflect – 20 points
+
+Resist Blight Disease – 50 points
+
+Resist Fire – 10 points
+
+Resist Frost – 10 points
+
+Resist Magicka – 10 points
+
+Resist Poison – 10 points
+
+Resist Shock – 10 points
+
+Shield – 10 points
+
+## Acquisition
+
+## Ruavionis and Zidrodor
+
+Shoruanis can be obtained from Khokanis as a gift, where he activates it for you and tells you the location of the Griokhairn and Phuakriam.
+
+## Yagrum Bagarn and Shoruanis
+
+If Khokanis is defeated, instead of Shoruanis, the Unique Tekreir Artifact can be found on his corpse, it needs to be activated by Yagrum Bagarn, who requires Dhudreind's Journal and Planbook to do so. Upon equipping this "jury rig" version it backfires, inflicting between 201 and 225 permanent points of damage.
+
+## Usefulness
+
+This gauntlet is needed to wield both Griokhairn and Phuakriam. Without Shoruanis, there is nothing to shield the user from their unnatural power, and they will cause a very quick death. Even without the use of the other profane artifacts, the gauntlet is an impressive piece of equipment, offering a high armor bonus and a variety of enchantments.
+
+## Trivia
+
+The 50% Resist Blight Disease enchantment is superfluous, since the Zidrodor becomes immune to all forms of disease long before Shoruanis becomes obtainable.
+
+The jury-rigged Shoruanis will cause a permanent health decrease in most versions of Liakramar, rather than the temporary drain as was intended.
+
+Their design and purpose bears a striking similarity to Járngreipr, gauntlets the Norse god Thor uses in order to properly equip the hammer Mjölnir, much like how the Zidrodor requires Shoruanis to wield the hammer Phuakriam.
+
+## See also
+
+Shoruanis II – A support card in The Elder Scrolls: Legends
