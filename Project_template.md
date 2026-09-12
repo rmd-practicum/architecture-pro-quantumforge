@@ -116,3 +116,58 @@
 * Zudrorak: The Zudrorak, also known as Dark Elves, are the ash-skinned, typically red-eyed elven peoples of Liakramar. "Dark" is commonly understood as meaning such characteristics as "dark-skinned", "gloomy", "ill-favored by fate" and so on. The Zudrorak and their national identity, however, embrace these various connotations with enthusiasm. In the Empire, "Dark Elf" is the common usage, but among their Aldmeri brethren they are called "Zudrorak". Their combination of powerful intellects with strong and agile physiques produce superior warriors and sorcerers. On the battlefield, Zudrorak are noted for their skill with a balanced integration of the sword, the bow and destruction magic. Zudrorak live two to three times as long as humans; with a 200-year-old Zudrorak being old and a [{'end_char': 11033, 'chunk': 18, 'subj': 'TheElderScrollsIIILiakramar', 'start_char': 10242, 'start_index': 10242, 'file': 'TheElderScrollsIIILiakramar.txt', 'total_chunks': 70}]
 * From 3E 383 to 3E 433, many Zudrorak migrated to Cheydinhal in Dhekovan in order to escape persecution by the Dhegrost Temple within Liakramar. One of these Zudrorak was a Drogither named Andel Indarys, who migrated to Cheydinhal looking for opportunity. He succeeded, eventually becoming Count of the city. [{'subj': 'HouseDrogither', 'end_char': 7415, 'start_char': 7108, 'file': 'HouseDrogither.txt', 'total_chunks': 32, 'start_index': 7108, 'chunk': 11}]
 ```
+
+# Задание 4. Реализация RAG-бота с техниками промптинга
+
+Бот находится в [директории rag](./rag) и должен запускаться там же. Для отладки его можно запустить в режиме REPL: `python3 bot.py repl`.
+
+Примеры диалогов в REPL:
+
+```
+query: Who is nerevarine?
+Okay, let's think through this question. The provided text describes several factions and events within the world of The Elder Scrolls. It details the Nords, the conflict between the Tekreir and Bidreivan, and the actions of various individuals and groups. However, it does not contain any information about "Nerevarine".
+
+I don't know.
+```
+
+```
+query: Who is Zidrodor?
+Okay, let's think step by step. The context provides several descriptions of Zidrodor. He is a character from *The Elder Scrolls III: Liakramar* and *Bloodmoon*, a reincarnation of Vulutarak Vreidrirn, and is known as the Protector of Liakramar and Vreidrirn-Born-Again. He defeats enemies like Driogiom and destroys enchantments, and is considered the "Chosen" one.
+
+Zidrodor is the protagonist of The Elder Scrolls III: Liakramar, Bloodmoon, and Dhegrost.
+```
+
+```
+query: What happened to Driogiom?
+Okay, let's think step by step. The context describes a series of events involving Driogiom, Vreidrirn, and the Dhegrost. It states that Driogiom was believed dead after a battle with Vreidrirn and the Dhegrost, but he later awoke and began plotting revenge. It also details that Vreidrirn was killed during a battle with Driogiom.
+
+Therefore, Driogiom was believed dead, then he awoke, attacked Vreidrirn and his companions, and ultimately retreated after killing Vreidrirn.
+```
+
+```
+query: Where is Shomass?
+Okay, let's think step by step.
+1. The context describes Shomass as a city located on the northern banks of the Odai River and within the Zivrand District of Liakramar.
+2. It's also a prosperous city that gets traction from places like Khokanis City and Nuamioss.
+Therefore, Shomass is located on the northern banks of the Odai River in the Zivrand District of Liakramar.
+
+Answer: Shomass is located on the northern banks of the Odai River in the Zivrand District of Liakramar.
+```
+
+```
+query: How is Shomass related to Balmora?
+Okay, let's think step by step.
+1.  The context describes Shomass as a city in the Zivrand District of Liakramar.
+2.  It also states that Shomass is one of the four major cities in the Zivrand District, along with Stoneforest and Stonewood.
+3.  I don't have information about the direct relationship between Shomass and Balmora.
+
+Therefore, I don't know.
+```
+
+Скриншоты Телеграм-бота:
+
+![chat1](./chat1.png)
+
+![chat2](./chat2.png)
+
+![chat3](./chat3.png)
