@@ -1,0 +1,32 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+
+title Index update setup
+
+Person(Developer, "Developer", "Разработчик")
+
+System_Boundary(Mac, "Mac (localhost)") {
+    Container(Cron, "cron", "Демон cron")
+    Container(RunSh, "run.sh", "Скрипт-обертка")
+    Container(Index, "index.py", "Скрипт обновления данных эмбеддингов")
+
+    ContainerDb(Docs, "Document storage", "Директория с документами")
+    ContainerDb(Logs, "Log file", "Журнал выполнения задачи")
+
+    Container(Ollama, "Ollama", "Модель расчета эмбеддингов")
+    ContainerDb(Chroma, "Chroma server", "Процесс сервера ChromaDB")
+
+    Container(Bot, "RAG-бот", "Сервис RAG-бота")
+}
+
+Rel(Developer, Docs, "Обновляет базу знаний")
+Rel(Cron, RunSh, "Запускает по расписанию")
+Rel(RunSh, Index, "Настраивает среду и запускает скрипт")
+Rel(Index, Docs, "Читает файлы и считает хэши")
+Rel(Index, Ollama, "Рассчитывает вектора для чанков")
+Rel(Index, Chroma, "Обновляет базу эмбеддингов")
+Rel(RunSh, Logs, "Пишет логи")
+Rel(Bot, Chroma, "Выполняет запросы")
+Rel(Developer, Logs, "Получает информацию о процессе выполнения")
+
+@enduml

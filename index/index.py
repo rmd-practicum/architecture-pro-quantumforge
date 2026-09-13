@@ -17,6 +17,8 @@ def file_hash(path: Path) -> str:
 
 
 def process(docs_path, chroma):
+    log.info("updating vector store", path=docs_path)
+
     disk_state = {
         str(p.relative_to(docs_path)): file_hash(p) for p in docs_path.rglob("*.txt")
     }
@@ -51,6 +53,9 @@ def process(docs_path, chroma):
 
     log.info("inserting new and updated entries...")
 
+    chunk_count = 0
+    failed_batches = 0
+
     for source in to_add + to_update:
         log.info("processing file", name=source)
 
@@ -83,9 +88,14 @@ def process(docs_path, chroma):
         for i in range(0, len(chunks), batch_size):
             batch = chunks[i : i + batch_size]
             ids_batch = ids[i:i+batch_size]
-            chroma.add_documents(batch, ids=ids_batch)
+            try:
+                chroma.add_documents(batch, ids=ids_batch)
+                chunk_count += len(batch)
+            except Exception as e:
+                log.error('failed to insert a batch of chunks', name=source, error=e)
+                failed_batches += 1
 
-    log.info("processing complete")
+    log.info("processing complete", chunks_inserted=chunk_count, index_size=chroma._collection.count(), failed_batches=failed_batches)
 
 
 def main():
