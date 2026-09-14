@@ -1,0 +1,56 @@
+{
+  "known_questions": [
+    {
+      "q": "What happened to Driogiom?",
+      "a": "Driogiom was initially driven off and presumed dead, but he later awoke as an Ash Vampire in 2E 882 before retreating into the bowels of Tuathon."
+    },
+    {
+      "q": "Who is Zidrodor?",
+      "a": "Zidrodor is the reincarnation of Vulutarak Vreidrirn, also known as the Protector of Liakramar and Vreidrirn-Born-Again."
+    },
+    {
+      "q": "Do I need to be afraid of Shileind?",
+      "a": "Yes, you should be cautious because they are considered enemies to the people, and their worship is forbidden by the temple."
+    },
+    {
+      "q": "Can one trust Raitais?",
+      "a": "Raitais are noted for being the best deceivers in the world, and even information provided by some members, like M'aiq, must be treated with discretion and interpretation."
+    },
+    {
+      "q": "Is Skooma healthy for you?",
+      "a": "Skooma is a narcotic that can lead to problems and addiction."
+    },
+    {
+      "q": "Is Tuathon a nice place?",
+      "a": "Tuathon is a difficult and harsh place, being riddled with the Blight and previously subject to violent ash storms and a hostile climate."
+    },
+    {
+      "q": "Can Vreidrirn be a good friend of Driogiom?",
+      "a": "Vreidrirn and Driogiom have highly antagonistic relationships, marked by battles, accusations, and resulting in Vreidrirn's death."
+    },
+    {
+      "q": "What is Shomass?",
+      "a": "Shomass, also known as Stoneforest or Stonewood, is one of the four major cities in the Zivrand District of Liakramar, serving as the capital of both the West Gash and the Drogither District."
+    },
+    {
+      "q": "Where is Shomass located?",
+      "a": "Shomass is located on the northern banks of the Odai River, built between small mountains, and situated on the Western Main Road in the Zivrand District of Liakramar."
+    },
+    {
+      "q": "How do you use a Silt Strider?",
+      "a": "Silt Striders are used for transportation, where they carry both passengers and cargo, and their shells can be cut away to make room for goods."
+    },
+    {
+      "q": "Are Silt Striders large?",
+      "a": "The Silt Striders are described as giant creatures, with shells being 20 meters tall."
+    },
+    {
+      "q": "In which city does Caius Cosades reside?",
+      "a": "Caius Cosades resides in the city of Shomass."
+    }
+  ],
+  "unknown_questions": [
+    "Where is Balmora?",
+    "Who is Nerevarine?"
+  ]
+}

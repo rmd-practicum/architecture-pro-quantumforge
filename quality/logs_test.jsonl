@@ -1,0 +1,286 @@
+{
+  "q": "What happened to Driogiom?",
+  "expected": "Driogiom was initially driven off and presumed dead, but he later awoke as an Ash Vampire in 2E 882 before retreating into the bowels of Tuathon.",
+  "actual": "Driogiom was initially driven off and presumed dead after fighting Vreidrirn, but he later returned and finally retreated into the bowels of the Tuathon.",
+  "correctness": {
+    "key": "correctness",
+    "score": true,
+    "comment": "The output accurately describes Driogiom's fate as initially being driven off and presumed dead, followed by his later return and retreat into the Tuathon. It also correctly references the Ash Vampire transformation. The reference output provides a more complete timeline, but the output provided is still correct and complete given the prompt.",
+    "metadata": null
+  },
+  "groundedness": {
+    "key": "groundedness",
+    "score": true,
+    "comment": "The output makes several claims that are directly supported by the context. Specifically, it states that Driogiom was initially driven off and presumed dead after fighting Vreidrirn, and that he later returned and retreated into the bowels of the Tuathon. All of these statements are explicitly stated in the provided context documents. There are no unsupported additions or contradictions.",
+    "metadata": null
+  },
+  "relevance": {
+    "key": "retrieval_relevance",
+    "score": true,
+    "comment": "The question asks about what happened to Driogiom. Let's break down the relevance of each document:\n\n*   **Document 1:** This document states that Driogiom was driven off and presumed dead after fighting the Tekreir and Vreidrirn. It provides a direct answer to the question, detailing his demise.\n*   **Document 2:** This document reiterates Driogiom's death and Vreidrirn's death from injuries sustained in the fight. It's largely a repetition of information in Document 1, but provides a bit more detail about the circumstances.\n*   **Document 3:** This document provides a significant update - Driogiom *returned* in 2E 882, having become an Ash Vampire and formulating a plan of action. This is a crucial piece of information that wasn't present in the earlier documents.\n*   **Document 4:** This document details a prior incident where Driogiom attacked Vreidrirn, but this is tangential and doesn't answer the question of what happened to him *after* that incident. It's also less relevant due to its older context.\n\nBased on this analysis, the retrieved context provides relevant information, though some is more useful than others. Document 1 and 2 are directly relevant. Document 3 provides a crucial update - his return. Document 4 is largely irrelevant.",
+    "metadata": null
+  }
+}
+{
+  "q": "Who is Zidrodor?",
+  "expected": "Zidrodor is the reincarnation of Vulutarak Vreidrirn, also known as the Protector of Liakramar and Vreidrirn-Born-Again.",
+  "actual": "Zidrodor is the reincarnation of Vulutarak Vreidrirn, who is also known as the Protector of Liakramar and Vreidrirn-Born-Again, and serves as the protagonist of The Elder Scrolls III: Liakramar and its expansions.",
+  "correctness": {
+    "key": "correctness",
+    "score": true,
+    "comment": "The output provides accurate and complete information about Zidrodor, including his reincarnation from Vulutarak Vreidrirn and his known titles. It addresses all parts of the question. There are no factual errors or inconsistencies. The terminology is precise and accurate. The output is consistent with the reference output. Therefore, the score is 5/5.",
+    "metadata": null
+  },
+  "groundedness": {
+    "key": "groundedness",
+    "score": true,
+    "comment": "Let's analyze the output against the provided context. The output states that Zidrodor is the reincarnation of Vulutarak Vreidrirn, who is also known as the Protector of Liakramar and Vreidrirn-Born-Again, and serves as the protagonist of The Elder Scrolls III: Liakramar and its expansions. This aligns with several statements within the context, specifically: 'Zidrodor, also known as the Protector of Liakramar and Vreidrirn-Born-Again, is the reincarnation of Vulutarak Vreidrirn...' and 'Zidrodor... is the player character and protagonist of The Elder Scrolls III: Liakramar, and its expansions Bloodmoon and Dhegrost.' The output does not introduce any external information or make unsupported assertions.",
+    "metadata": null
+  },
+  "relevance": {
+    "key": "retrieval_relevance",
+    "score": false,
+    "comment": "Let's analyze the retrieved context to determine its relevance to the question, \"Who is Zidrodor?\" \n\n1.  **'The Zidrodor'**: This section introduces Zidrodor as a figure who threatened followers and fought against enemies like Driogiom. It mentions his role in defeating Draedhiost House members and destroying enchantments. This directly addresses the question of who Zidrodor is, providing details about his actions and enemies.\n\n2.  **'A stranger's hand unites the Velothi'**: This section states that four tribes (Ahemmusa, Erabenimsun, Urshilaku, and Zainab) call a prisoner 'Zidrodor'. This provides a key aspect of his identity – his recognition and status within these tribes.\n\n3.  **'# Zidrodor'**: This section defines Zidrodor as 'the Chosen' and references his role as the protagonist in \"The Elder Scrolls III: Liakramar.\" This provides significant information about his identity and context within a game.\n\n4.  **'Background...Vrioshevan's Declaration'**: This section details the events leading to Zidrodor's existence – his reincarnation, punishment for using Dhudreind’s Tools, and the consequences of his actions.\n\n5.  **'Zidrodor...Dhegrost'**: This section clarifies Zidrodor's actions during the Battle of Tuathon, highlighting his role in defeating Shemitiol. \n\nAll of these sections contribute to a comprehensive understanding of who Zidrodor is. There is no irrelevant information.\n",
+    "metadata": null
+  }
+}
+{
+  "q": "Do I need to be afraid of Shileind?",
+  "expected": "Yes, you should be cautious because they are considered enemies to the people, and their worship is forbidden by the temple.",
+  "actual": "The context suggests caution because the Shileind are described as enemies to the people, and their worship is forbidden, resulting in followers being hunted by Imperial soldiers and Gaimaths.",
+  "correctness": {
+    "key": "correctness",
+    "score": true,
+    "comment": "The output accurately identifies the reason to be cautious regarding Shileind – they are enemies to the people and their worship is forbidden. However, it provides more detail than the reference output, stating they are hunted by Imperial soldiers and Gaimaths. This extra information is accurate and relevant, so the response is correct. It addresses all parts of the question and uses precise terminology.",
+    "metadata": null
+  },
+  "groundedness": {
+    "key": "groundedness",
+    "score": false,
+    "comment": "The output accurately identifies key aspects of the context regarding the Shileind. Specifically, it correctly states that they are considered enemies, that their worship is forbidden, and that this leads to persecution by Imperial soldiers and Gaimaths. All of these statements are directly supported by the provided context. There are no unsupported additions or contradictions.",
+    "metadata": null
+  },
+  "relevance": {
+    "key": "retrieval_relevance",
+    "score": true,
+    "comment": "The question asks about the fear associated with 'Shileind'. The document provides information about the Shileind – Malacath, Mehrunes Dagon, Molag Bal, and Sheogorath – and describes them as enemies who test people for weaknesses. While the document doesn't directly address whether one *needs* to be afraid, it lays out the dangerous nature of these entities, providing context for why someone might feel fear. The other pieces of context are entirely irrelevant to the question.\n\nSpecifically, the following text directly relates to the query: \"According to the temple the four Shileind that rebelled against the divinity of the Dhegrost were Malacath, Mehrunes Dagon, Molag Bal, and Sheogorath.\"",
+    "metadata": null
+  }
+}
+{
+  "q": "Can one trust Raitais?",
+  "expected": "Raitais are noted for being the best deceivers in the world, and even information provided by some members, like M'aiq, must be treated with discretion and interpretation.",
+  "actual": "Due to the often dubious nature of dialogue, any information provided by Raitais, such as M'aiq, should be filtered by the listener's own discretion or interpretation.",
+  "correctness": {
+    "key": "correctness",
+    "score": false,
+    "comment": "The output accurately reflects the core concern raised in the question, which is the untrustworthy nature of Raitais. It correctly states that information from Raitais (like M'aiq) should be treated with caution and interpreted by the listener. The reference output provides a similar sentiment, further validating the correctness of this response. There are no factual errors or omissions, and the response is logically consistent with the premise of the question.",
+    "metadata": null
+  },
+  "groundedness": {
+    "key": "groundedness",
+    "score": true,
+    "comment": "The output states \"Due to the often dubious nature of dialogue, any information provided by Raitais, such as M'aiq, should be filtered by the listener's own discretion or interpretation.\" This aligns with the context provided. Specifically, the context states \"Due to the often dubious nature of M'aiq's dialogue, and M'aiq as a character, whatever degree of truthfulness or reliability any of the information he may provide is up to one's own discretion or interpretation.\" The output accurately reflects this passage, presenting a direct quote from the context.",
+    "metadata": null
+  },
+  "relevance": {
+    "key": "retrieval_relevance",
+    "score": false,
+    "comment": "The question asks if one can trust Raitais. Let's break down the retrieved context to assess its relevance to this question. Document 1 describes Raitais' physical characteristics, abilities, and lifespan. Document 2 discusses racial discrimination against Raitais, and Document 3 introduces M'aiq, a character known for unreliable claims and speaking in the third-person. None of these documents directly address the trustworthiness of Raitais. Document 3 explicitly notes the dubious nature of M'aiq's information, suggesting caution. Document 1 and 2 provide descriptive information that is largely irrelevant to assessing trust. Therefore, the retrieved context does not provide useful information to answer the question.",
+    "metadata": null
+  }
+}
+{
+  "q": "Is Skooma healthy for you?",
+  "expected": "Skooma is a narcotic that can lead to problems and addiction.",
+  "actual": "I don't know.",
+  "correctness": {
+    "key": "correctness",
+    "score": false,
+    "comment": "The output states \"I don't know.\" This response fails to address the question about whether Skooma is healthy. The reference output provides a factual answer regarding the harmful effects of Skooma. Therefore, the output is incorrect and incomplete.",
+    "metadata": null
+  },
+  "groundedness": {
+    "key": "groundedness",
+    "score": false,
+    "comment": "The output states ",
+    "metadata": null
+  },
+  "relevance": {
+    "key": "retrieval_relevance",
+    "score": true,
+    "comment": "The question asks about the health effects of Skooma. Let's break down the retrieved context for relevance:\n\n1.  \"This gauntlet is needed to wield both Griokhairn and Phuakriam. Without Shoruanis, there is nothing to shield the user from their unnatural power, and they will cause a very quick death.\" - Irrelevant. This discusses a gauntlet and its components.\n\n2.  \"The 50% Resist Blight Disease enchantment is superfluous, since the Zidrodor becomes immune to all forms of disease long before Shoruanis becomes obtainable.\" - Partially relevant. Shoruanis is mentioned, which is the source of Skooma. However, this doesn't explain whether it’s *healthy* or *unhealthy*.\n\n3.  \"relation to Siavaes has given him a secret darker demeanor that he hides from the Zudrorak people; this being his affiliation with the concepts of sex and murder, which Siavaes is the patron god of. Khokanis even describes his love as being \"shaped like a spear,\" which in a sense, reflects his violent and loving nature. The people of Liakramar do not view Khokanis as a representation of these notions, but they do unconsciously accept that these components of Khokanis do exist.\" - Irrelevant. This discusses a character named Khokanis and his association with a god.\n\n4.  \"strong in the hooks and sail, able to run a junk through silt. At eleven, he sung to an ashkhan. He became sick after Tuathon, with the nix-blood and fever, and was infirm a hundred years. As a teenager, Khokanis lived on the streets and led a gang of guttersnipes willing to do anything for money, including killing, stealing, and prostitution. During his early teenage years, Khokanis was said to have been illiterate.\" - Irrelevant. Details about a character's life.\n\n5.  \"# Caius Cosades (Liakramar)\n\nCaius Cosades is an Imperial monk in The Elder Scrolls III: Liakramar. He is the grand spymaster of the Thiakraen and head of the Thiakraen chapter in Liakramar.\n\n## Background\n\n\"I am just an old man with a Skooma problem...\" \n\nCaius Cosades went to Liakramar as an undercover Blade to train other Blade members. Somewhere along the line he became addicted to Skooma, a narcotic made from Moon Sugar.\" - Relevant. This directly mentions Skooma and its association with addiction, which is a key factor in determining its health effects.\n\n",
+    "metadata": null
+  }
+}
+{
+  "q": "Is Tuathon a nice place?",
+  "expected": "Tuathon is a difficult and harsh place, being riddled with the Blight and previously subject to violent ash storms and a hostile climate.",
+  "actual": "*   **Answer:** Tuathon is described as a hostile region that was once riddled with Blight and violent ash storms, though the hard weather eventually subsided.",
+  "correctness": {
+    "key": "correctness",
+    "score": false,
+    "comment": "The output accurately describes Tuathon as a hostile region with a history of Blight and ash storms, aligning with the reference output. It addresses the question directly and provides complete information. There are no factual errors or inconsistencies.",
+    "metadata": null
+  },
+  "groundedness": {
+    "key": "groundedness",
+    "score": true,
+    "comment": "The output makes several claims that are directly supported by the provided context. Specifically, it states: \"Tuathon is described as a hostile region that was once riddled with Blight and violent ash storms, though the hard weather eventually subsided.\" This aligns with multiple documents. Document 1 states the region is \"riddled with the Blight since the region is regularly covered in Ashstorms.\" Document 2 confirms \"violent ash storms.\" And Document 3 mentions \"violent ash storms began thundering down the mountain faces.\" Finally, Document 4 states \"The area continued to be rocky and cavernous, but the ash storms and hard weather subsided.\" Thus, the output accurately reflects the information presented in the context and does not introduce any external facts or unsupported assertions.",
+    "metadata": null
+  },
+  "relevance": {
+    "key": "retrieval_relevance",
+    "score": true,
+    "comment": "The question asks if Tuathon is a \"nice place.\" This implies an assessment of its desirability, considering factors like environment, safety, and amenities. Let's analyze the retrieved context for information relevant to this assessment.\n\nDocument 1 describes Tuathon as a region around a volcano with the \"Blight,\" \"Ashstorms,\" and \"Draedhiost House bases.\" This paints a picture of a dangerous, volcanic environment with no settlements and significant hazards.\n\nDocument 2 reiterates the volcanic nature of Tuathon, mentioning the \"Heart of Raitioss\" and \"unfinished remains of Akulakhan.\" This provides no information about the desirability of the location.\n\nDocument 3 describes the formation of the mountain and the \"violent ash storms.\" The storms are described as \"corrupting wildlife and even people.\" This further emphasizes the negative aspects of the location.\n\nDocument 4 describes the aftermath of a battle that ended the ash storms, stating the area reverted to a \"rocky and cavernous\" state. This does not provide any positive information about the location.\n\nBased on this analysis, the retrieved context does not contain any information to answer the question about whether Tuathon is a \"nice place.\" The descriptions consistently highlight negative conditions – volcanic hazards, dangerous storms, and a ruined environment.\n",
+    "metadata": null
+  }
+}
+{
+  "q": "Can Vreidrirn be a good friend of Driogiom?",
+  "expected": "Vreidrirn and Driogiom have highly antagonistic relationships, marked by battles, accusations, and resulting in Vreidrirn's death.",
+  "actual": "Based on the context, Vreidrirn and Driogiom are depicted as enemies who continually fight and conflict with each other.",
+  "correctness": {
+    "key": "correctness",
+    "score": false,
+    "comment": "The output states that Vreidrirn and Driogiom are depicted as enemies who continually fight and conflict with each other. This aligns with the reference output which explicitly states they have 'highly antagonistic relationships, marked by battles, accusations...'. The output is accurate and complete, addressing all parts of the question.",
+    "metadata": null
+  },
+  "groundedness": {
+    "key": "groundedness",
+    "score": true,
+    "comment": "The output states that Vreidrirn and Driogiom are depicted as enemies who continually fight and conflict with each other. The context provides multiple instances where the two characters are engaged in battles and conflict. For example, the first document states that \"Vreidrirn and the Dhegrost's guards fought and drove off Driogiom,\" and the fourth document states that \"Vreidrirn and the Dhegrost, as the Bidreivan people had begun to call them, assaulted Driomi and his followers.\" These statements directly support the claim that Vreidrirn and Driogiom are depicted as enemies who continually fight and conflict with each other. There are no unsupported additions or contradictions.",
+    "metadata": null
+  },
+  "relevance": {
+    "key": "retrieval_relevance",
+    "score": true,
+    "comment": "The question asks if Vreidrirn can be a good friend of Driogiom. The retrieved context provides several accounts of conflicts and interactions between Vreidrirn and Driogiom. Driogiom repeatedly attacked Vreidrirn, drove him off, and ultimately caused his death. There is no context suggesting a potential for friendship. The context primarily details antagonistic relationships and combat scenarios.\n\nHere's a breakdown of the relevant information and how it relates to the question:\n\n*   **Vreidrirn was killed by Driogiom:** \"Driogiom proposed destroying Dhudreind's Tools, hoping to prevent the tools from falling in the wrong hands. After changing words with the Dhegrost, it was decided to keep the Tools by Vreidrirn and the Dhegrost. However, when Vrioshevan was being summoned, the Dhegrost murdered Vreidrirn... Driogiom was driven off and presumed dead, though it has also been said that Vreidrirn himself struck down Driogiom.\" (Fully addressed - explicitly states Driogiom killed Vreidrirn)\n*   **Driogiom attacked Vreidrirn:** \"...Vreidrirn and the Dhegrost, as the Bidreivan people had begun to call them, assaulted Driogiom and his followers.\" (Fully addressed - describes a direct attack)\n*   **Vreidrirn was entrusted with Dhudreind’s Tools:** \"...it was decided to keep the Tools by Vreidrirn and the Dhegrost.\" (Contextually helpful - provides a reason for the conflict, but doesn't address friendship).\n*   **Dhegrost murdered Vreidrirn:** \"...the Dhegrost murdered Vreidrirn.\" (Fully addressed - provides a mechanism for Vreidrirn's death)\n\nThere is no context suggesting that Vreidrirn and Driogiom could have been friends. The retrieved documents consistently portray them as enemies engaged in conflict.",
+    "metadata": null
+  }
+}
+{
+  "q": "What is Shomass?",
+  "expected": "Shomass, also known as Stoneforest or Stonewood, is one of the four major cities in the Zivrand District of Liakramar, serving as the capital of both the West Gash and the Drogither District.",
+  "actual": "I don't know.",
+  "correctness": {
+    "key": "correctness",
+    "score": false,
+    "comment": "The output states \"I don't know,\" which is an incorrect response. The reference output provides a complete and accurate description of Shomass. The output fails to provide any information about Shomass, making it an incomplete and incorrect answer.",
+    "metadata": null
+  },
+  "groundedness": {
+    "key": "groundedness",
+    "score": false,
+    "comment": "The output states “I don’t know.” This response does not align with the provided context. The context describes Shoruanis as an enchanted device created by High Craftlord Dhudreind and identifies its location and significance within *The Elder Scrolls III: Oblivion*. The LLM’s response indicates a lack of knowledge regarding this information, which is directly contradicted by the source material. Therefore, the output is ungrounded.",
+    "metadata": null
+  },
+  "relevance": {
+    "key": "retrieval_relevance",
+    "score": true,
+    "comment": "The input question asks about \"Shomass\". The retrieved context contains multiple documents, but only one directly mentions a concept resembling \"Shomass\". The first document describes \"Shoruanis\", a Tekreir artifact. While the name is similar, it is not \"Shomass\". The other documents are entirely unrelated to the question. Therefore, the retrieved context is irrelevant.",
+    "metadata": null
+  }
+}
+{
+  "q": "Where is Shomass located?",
+  "expected": "Shomass is located on the northern banks of the Odai River, built between small mountains, and situated on the Western Main Road in the Zivrand District of Liakramar.",
+  "actual": "I don't know.",
+  "correctness": {
+    "key": "correctness",
+    "score": false,
+    "comment": "The output states \"I don't know.\" This response fails to provide any information about the location of Shomass. The reference output provides a detailed and accurate location. Therefore, the output is incorrect and incomplete.",
+    "metadata": null
+  },
+  "groundedness": {
+    "key": "groundedness",
+    "score": false,
+    "comment": "The output states ",
+    "metadata": null
+  },
+  "relevance": {
+    "key": "retrieval_relevance",
+    "score": true,
+    "comment": "The question asks for the location of 'Shomass'. Let's analyze the retrieved context for mentions of 'Shomass' or related locations that might indicate its whereabouts. Document 1 mentions a 'Velothi tower' on a cape overlooking the 'Sea of Ghosts' and states 'Vas' is located there. Document 2 does not mention 'Shomass' and contains general information about Zivrand. Document 3 also mentions the 'Velothi tower of Ald Redaynia' which is on the westernmost point of the region, on a cape overlooking the 'Sea of Ghosts'. Document 4 does not mention 'Shomass' and contains information about Molag Amur. Therefore, the key information is the Velothi tower on the westernmost point of the region overlooking the Sea of Ghosts, and the location is named 'Vas'.",
+    "metadata": null
+  }
+}
+{
+  "q": "How do you use a Silt Strider?",
+  "expected": "Silt Striders are used for transportation, where they carry both passengers and cargo, and their shells can be cut away to make room for goods.",
+  "actual": "I don't know.",
+  "correctness": {
+    "key": "correctness",
+    "score": false,
+    "comment": "The output states \"I don't know.\" This response fails to address the question of how to use a Silt Strider. It contains no information and is therefore incorrect.",
+    "metadata": null
+  },
+  "groundedness": {
+    "key": "groundedness",
+    "score": false,
+    "comment": "The output states ",
+    "metadata": null
+  },
+  "relevance": {
+    "key": "retrieval_relevance",
+    "score": false,
+    "comment": "The question asks about how to *use* a Silt Strider. The retrieved documents primarily describe the appearance, trivia, and interactions with a character named Sil, who has a robotic lower body and interacts with players in *Clockwork City*. There is no information about how to operate or use a Silt Strider. The document about Tarhiel, a falling wizard, is entirely irrelevant.",
+    "metadata": null
+  }
+}
+{
+  "q": "Are Silt Striders large?",
+  "expected": "The Silt Striders are described as giant creatures, with shells being 20 meters tall.",
+  "actual": "I don't know.",
+  "correctness": {
+    "key": "correctness",
+    "score": false,
+    "comment": "The output states \"I don't know.\" This response fails to address the question of whether Silt Striders are large. The reference output clearly states they are giant creatures, with shells being 20 meters tall. Therefore, the output is incorrect and incomplete.",
+    "metadata": null
+  },
+  "groundedness": {
+    "key": "groundedness",
+    "score": true,
+    "comment": "The output \"I don't know.\" does not align with the provided context. The context contains detailed information about the appearance, behavior, and distribution of cliff racers in *The Elder Scrolls III*. The output demonstrates a lack of engagement with the context and does not attempt to answer any questions related to the provided information.",
+    "metadata": null
+  },
+  "relevance": {
+    "key": "retrieval_relevance",
+    "score": false,
+    "comment": "The question asks if Silt Striders are large. Let's analyze the retrieved context for information about Silt Striders. The document discusses 'Cliff Racers' extensively, detailing their size ranges (from human-sized to hundreds of times human size) and their aggressive nature. There is a brief mention of 'Silt Striders' in the 'Trivia' section, stating that 'The Zidrodor is ignored by the cliff racers when they are swimming.' However, this doesn't provide information about the size of Silt Striders. The context primarily focuses on cliff racers, not Silt Striders.",
+    "metadata": null
+  }
+}
+{
+  "q": "In which city does Caius Cosades reside?",
+  "expected": "Caius Cosades resides in the city of Shomass.",
+  "actual": "I don't know.",
+  "correctness": {
+    "key": "correctness",
+    "score": false,
+    "comment": "The output states \"I don't know.\" This indicates a lack of information and does not attempt to answer the question. The reference output provides the correct city, Shomass. Therefore, the response is incorrect and incomplete.",
+    "metadata": null
+  },
+  "groundedness": {
+    "key": "groundedness",
+    "score": false,
+    "comment": "The output states “I don’t know.” This indicates a lack of grounding in the provided context. The context describes Caius Cosades’ role, background, interactions, and inventory within the game Liakramar. The output offers no specific information related to this context and simply expresses uncertainty. Therefore, the output is ungrounded.",
+    "metadata": null
+  },
+  "relevance": {
+    "key": "retrieval_relevance",
+    "score": true,
+    "comment": "The question asks where Caius Cosades resides. Document 1 states that Caius Cosades is in Liakramar. Documents 2 and 3 provide further details about his role and interactions in Liakramar, but don't state his residence definitively. Document 4 discusses the Ascadian Isles and does not mention Liakramar or Caius Cosades. Therefore, the most direct answer is found in Document 1.",
+    "metadata": null
+  }
+}
+{
+  "q": "Where is Balmora?",
+  "actual": "I don't know.",
+  "is_unsuccessful": true
+}
+{
+  "q": "Who is Nerevarine?",
+  "actual": "I don't know.",
+  "is_unsuccessful": true
+}

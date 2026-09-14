@@ -62,7 +62,7 @@
 
 ### CPU
 
-Наибольшая нагрузка на CPU возникает при начальной индексации документов, но полная индексация требуется редко. На современных устройствах можно ожидать, что полная индексация займет минуты.
+Наибольшая нагрузка на CPU возникает при начальной генерации эмбеддингов и индексации документов, но это требуется редко. На современных устройствах можно ожидать, что генерация эмбеддингов и полная индексация займет часы: это приемлемо для одноразовой задачи. Кроме того, рассчитанные эмбеддинги можно сохранить отдельно и при необходимости пересоздавать индекс уже из них.
 
 Каждый пользовательский запрос включает в себя вычисление вектора, поиск в векторной базе, загрузку чанка. За основу времени вычисления вектора возьмем оценку для модели all-MiniLM-L6-v2, 10 мс. Что касается запросов, [документация Chroma](https://docs.trychroma.com/guides/performance/single-node) указывает на среднюю задержку около 5 мс и p99 порядка 10-20 мс. С учетом прочих операций можно предположить, что одно ядро сможет обрабатывать 10 запросов в секунду.
 
@@ -326,3 +326,69 @@ Post-проверка на основе регулярных выражений 
 Диаграмма архитектуры:
 
 ![diagram](./index/diagram.svg)
+
+# Задание 7. Аналитика покрытия и качества базы знаний
+
+Из базы были удалены сущности: Shomass, Silt Strider. Обновленная база находится в [knowledge_base/3_without_entities](./knowledge_base/3_without_entities).
+
+Золотые вопросы находятся в [quality/golden_questions.json](./quality/golden_questions.json). Они разбиты на две секции: в первой находятся вопросы и ожидаемые ответы для фактов, которые должны быть в базе знаний; во второй находятся вопросы, для которых бот не должен выдавать ответ (этих знаний у него не должно быть).
+
+Создан скрипт для автоматизированного тестирования: [quality/test.py](./quality/test.py), который использует библиотеку openevals для оценки качества ответов бота. Применяются оценки correctness, groundedness, retrieval_relevance. Его лог находится рядом в [quality/logs_test.jsonl](./quality/logs_test.jsonl).
+
+## Анализ логов тестирования
+
+### По каким темам бот часто не отвечает?
+
+В логе видно, что бот не смог ответить на вопросы о сущностях, которые были удалены: `Shomass`, `Silt Strider`. Это ожидаемое поведение.
+
+Кроме того, бот ожидаемо не смог ответить на вопросы о понятиях, которых нет в базе знаний: `Where is Balmora?`, `Who is Nerevarine?`.
+
+При этом также видно, что местами модель-оценщик сама выдала галлюцинации. Например:
+
+```
+{
+  "q": "Are Silt Striders large?",
+  "expected": "The Silt Striders are described as giant creatures, with shells being 20 meters tall.",
+  "actual": "I don't know.",
+  "groundedness": {
+    "key": "groundedness",
+    "score": true,
+    "comment": "The output \"I don't know.\" does not align with the provided context. The context contains detailed information about the appearance, behavior, and distribution of cliff racers in *The Elder Scrolls III*. The output demonstrates a lack of engagement with the context and does not attempt to answer any questions related to the provided information.",
+    "metadata": null
+  },
+}
+```
+
+Здесь модель-оценщик перепутала понятия `Silt Strider` и `cliff racer`.
+
+### Где бот выдаёт нерелевантные источники?
+
+Источники ответа на вопрос `Can one trust Raitais?` оказались нерелевантными. Модель-оценщик заключила, что документы 1 и 2 оказались нерелвантными вопросу:
+
+```
+The question asks if one can trust Raitais. Let's break down the retrieved context to assess its relevance to this question. Document 1 describes Raitais' physical characteristics, abilities, and lifespan. Document 2 discusses racial discrimination against Raitais, and Document 3 introduces M'aiq, a character known for unreliable claims and speaking in the third-person. None of these documents directly address the trustworthiness of Raitais. Document 3 explicitly notes the dubious nature of M'aiq's information, suggesting caution. Document 1 and 2 provide descriptive information that is largely irrelevant to assessing trust. Therefore, the retrieved context does not provide useful information to answer the question.
+```
+
+Аналогично с вопросом `How do you use a Silt Strider?`, для которого нет информации в базе знаний:
+
+```
+The question asks about how to *use* a Silt Strider. The retrieved documents primarily describe the appearance, trivia, and interactions with a character named Sil, who has a robotic lower body and interacts with players in *Clockwork City*. There is no information about how to operate or use a Silt Strider. The document about Tarhiel, a falling wizard, is entirely irrelevant.
+```
+
+Интересно, что для вопроса `Who is Zidrodor?` модель-оценщик заключила: `All of these sections contribute to a comprehensive understanding of who Zidrodor is. There is no irrelevant information.`, но тем не менее поставила негативную оценку.
+
+### Где нужно расширить или переписать базу знаний?
+
+Для ответа на этот вопрос при анализе логов стоит обратить внимание на ответы, получившие негативные оценки по всем или почти всем критериям. Это однозначно идентифицирует пробелы в знаниях о сущностях, которые были удалены в целях эксперимента:
+
+- `What is Shomass?`
+- `Where is Shomass located?`
+- `How do you use a Silt Strider?`
+- `Are Silt Striders large?`
+- `In which city does Caius Cosades reside?`
+
+Кроме того, тестирование выявило галлюцинации модели-оценщика, вызванные ограничениями локальной модели и железа. Для улучшения качества оценки ответов уместно выбрать облачную модель.
+
+## Диаграмма оценки
+
+![test diagram](./quality/diagram.svg)

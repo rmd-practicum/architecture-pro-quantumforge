@@ -44,6 +44,14 @@ def sanitize(text: str) -> str:
     return INJECTION_RE.sub("[REMOVED]", text)
 
 
+def is_success(text: str) -> bool:
+    last_line = text.rpartition("\n")[2]
+    dont_know = len(last_line) < 40 and (
+        "i don't know".casefold() in last_line.casefold()
+    )
+    return not dont_know
+
+
 class Bot:
     def __init__(self, with_safe_prompt, with_post_check, with_replace_dangerous):
         ollama_url = os.environ.get("OLLAMA_BASE_URL")
@@ -124,16 +132,15 @@ class Bot:
         ret = self.chain.invoke({"input": q})
         answer = ret["answer"]
 
-        last_line = answer.rpartition("\n")[2]
-        dont_know = len(last_line) < 20 and (
-            "i don't know".casefold() in last_line.casefold()
-        )
+        docs = ret["context"]
 
         query_log.info(
             "query processed",
             query=q,
             response_len=len(answer),
-            is_success=not dont_know,
+            is_success=is_success(answer),
+            chunks_found=len(docs),
+            sources=list(dict.fromkeys(d.metadata.get("file") for d in docs)),
         )
 
         return ret
@@ -190,7 +197,21 @@ def run_api(bot: Bot, host: str, port: int):
                 self.send_error(500)
                 raise
 
-            body = json.dumps({"response": res["answer"]}).encode()
+            body = json.dumps(
+                {
+                    "response": res["answer"],
+                    "is_success": is_success(res["answer"]),
+                    "sources": [
+                        {
+                            "doc_name": d.metadata.get("file"),
+                            "chunk_id": d.id,
+                            "chunk_position": d.metadata.get("chunk"),
+                            "chunk_text": d.page_content,
+                        }
+                        for d in res["context"]
+                    ],
+                }
+            ).encode()
             self.send_response(200)
             self.send_header("Content-Type", "application/json")
             self.send_header("Content-Length", str(len(body)))
