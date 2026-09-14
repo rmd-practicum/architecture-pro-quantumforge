@@ -1,0 +1,77 @@
+# Fargoth
+
+"Are you the one that boat dropped off? Odd to see a boat arrive at that time of the day. Hope the Imperials treated you okay. I swear they took my ring."
+
+―Fargoth
+
+Fargoth is a Bosmer Commoner living in the town of Seyda Neen. Because of the diminutive nature and size of his race, he is frequently shaken down by the Imperial Legion Watch Captain Hrisskar Flat-Foot, who likes to put his possessions in a barrel beside the door leading to the second building of the Census and Excise building.
+
+## Interactions
+
+## Fargoth's Ring
+
+At the time of the Nerevarine's return, Hrisskar has recently stolen his family's magic ring and put it in the aforementioned barrel. This barrel is looted by beginners on their way through the building. If the ring is returned to Fargoth, his disposition will increase and he will put in a good word for the Nerevarine with Arrille at Arrille's Tradehouse, giving them a discount there.
+
+## Fargoth's Hiding Place
+
+To start this quest, the Nerevarine can either hear the rumors about Hrisskar's money problems or speak to the captain himself. Hrisskar will say he suspects Fargoth is hiding his money, and suggests that the Nerevarine go to the top of the lighthouse to spy on Fargoth. After waiting until 10 pm, the Bosmer is seen lurking towards a tree stump in the swamp. Once Fargoth leaves, the Nerevarine can check the stump to confirm Hrisskar's suspicion: 300 gold is stashed there, along with the Engraved Ring of Healing from the earlier quest and a journeyman's lockpick.
+
+## Dialogue
+
+Bitter Coast region "The Bitter Coast is named for the salt marshes along the coast northwest of town. From here to the Odai River, it's rugged coastal hills, then it's roadless, uninhabited swamp all the way north to the West Gash and the Sea of Ghosts. Hla Oad is a fishing settlement north of the Odai, and the fishing village of Gnaar Mok is even farther, and both places are small, isolated, and poor. Hunting is fair, and some folks gather mushrooms, pods, and flowers for alchemists."
+
+Fargoth's Hiding Place:
+
+"Hiding place? I don't know what you're talking about! Leave me alone."
+
+"I don't have a hiding place. At least not anymore...."
+
+Ring:
+
+"I swear one of the Guards has it. I had it last week before their weekly "Let's shake down Fargoth" ritual. An engraved healing ring, family heirloom of mine. You haven't seen it have you?"
+
+Uhhh. No, sorry. No ring.
+
+"Darn. Well if you see it let me know. It's an engraved ring of healing. I know it's in there somewhere."
+
+Yes, I found it! Here take it.
+
+(If ring is not in the inventory) "That's not it! Don't mess with me, I don't like that, if you really find it, let me know."
+
+(If ring is in the inventory) "You found it! Amazing! Thank you, thank you! You are now my favourite friend. I'll be sure to tell the others, especially my friend Arrille who runs the tradehouse here. Go see him, he'll be happy to see you now!"
+
+"Yes, thank you for finding it! Those guards better look out."
+
+## Fargoth's Ring
+
+"Are you the one that boat dropped off? Odd to see a boat arrive at that time of the day. Hope the Imperials treated you okay. I swear they took my ring."
+
+ring "I swear one of the Guards has it. I had it last week before their weekly "Let's shake down Fargoth" ritual. An engraved healing ring, family heirloom of mine. You haven't seen it have you?"
+
+Uhhh. No, sorry. No ring. "Darn. Well if you see it let me know. It's an Engraved Ring of Healing. I know it's in there somewhere."
+
+Yes, I found it! Here take it. "You found it! Amazing! Thank you, thank you! You are now my favorite friend. I'll be sure to tell the others, especially my friend Arrille who runs the tradehouse here. Go see him, he'll be happy to see you now!"
+
+## Quotes
+
+"This is going to be fun!"
+
+"I have a feeling you and I are going to become very close..."
+
+"I think you're a thief, because you've stolen my heart."
+
+"Why must you people always pick on the small ones? Go away!"
+
+"You chose the wrong Bosmer to mess with!"
+
+"Go back where you came from, Fetcher!"
+
+## Trivia
+
+Fargoth is the first character seen after leaving the Legion's custody.
+
+According to the Tax Record found on Processus Vitellius, he owes the Seyda Neen Census and Excise Office 111 drakes in taxes.
+
+## Bugs
+
+PC Fargoth's walking path may malfunction and cause him to be stuck near a crate.

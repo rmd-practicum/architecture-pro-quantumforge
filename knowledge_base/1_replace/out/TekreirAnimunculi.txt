@@ -1,0 +1,17 @@
+# Tekreir Animunculi
+
+Main article: Spells (Liakramar)
+
+Tekreir Animunculi is a Conjuration spell that summons a Centurion Sphere from Neituand. It appears six feet in front of the caster and attacks any entity that attacks the caster until the effect ends or the summoning is killed. At death, or when the effect ends, the summoning disappears, returning to Neituand. If summoned in town, the guards will attack you and the summoning on sight.
+
+## Effects
+
+Summon Centurion Sphere for 2 minutes.
+
+## Acquisition
+
+Reading Secrets of Tekreir Animunculi found in Galom Daeus' observatory, confers the spell Tekreir Animunculi.
+
+It can be acquired on the PC by using the console:
+
+Player -> AddSpell "summon_centurion_unique"

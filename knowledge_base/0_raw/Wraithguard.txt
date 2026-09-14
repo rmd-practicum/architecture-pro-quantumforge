@@ -1,0 +1,61 @@
+# Wraithguard
+
+"This is Wraithguard, an enchanted device created ages ago by my former master, High Craftlord Kagrenac, a long-dead Dwemer mage-smith. I believe it is one of the tools he created to forge mythopoeic enchantments."
+
+―Yagrum Bagarn
+
+Wraithguard is a unique heavy gauntlet in The Elder Scrolls III: Morrowind. It is an immensely powerful Dwemer artifact, and one of the profane tools of Kagrenac. It is one of the best armor pieces of the game.
+
+## Background
+
+Beneath Red Mountain, Dwemer miners discovered a great magical stone. By diverse methods, Lord Kagrenac, High Priest and Magecrafter of the ancient Dwemer, determined that this magical stone was the heart of the god Lorkhan, cast here in the Dawn Era as punishment for his mischief in creating the mortal world. Determined to use its divine powers to create a new god for the exclusive benefit of the Dwemer, Kagrenac forged three great enchanted artifacts, which are called Kagrenac's Tools. Wraithguard is an enchanted gauntlet to protect its wearer from destruction when tapping the heart's power. Sunder is an enchanted hammer to strike the heart and produce the exact volume and quality of power desired. Keening is an enchanted blade that is used to flay and focus the power that rises from the heart.
+
+The Tribunal wrested Kagrenac's Tools and the Heart of Lorkhan from Voryn Dagoth and used them to give themselves divine powers. Unbeknownst to them, Voryn Dagoth did not die from their conflict but had secretly connected himself to the Heart long ago, turning into Dagoth Ur and becoming a divine being himself. Unlike Keening and Sunder, Wraithguard was not lost during a pilgrimage to Red Mountain but kept safe in the hands of Vivec. After being obtained by the Nerevarine, it was used to destroy the Heart of Lorkhan.
+
+## Enchantment
+
+Enchantment ID: wraithguard_en
+
+All magic effects are constant on self:
+
+Reflect – 20 points
+
+Resist Blight Disease – 50 points
+
+Resist Fire – 10 points
+
+Resist Frost – 10 points
+
+Resist Magicka – 10 points
+
+Resist Poison – 10 points
+
+Resist Shock – 10 points
+
+Shield – 10 points
+
+## Acquisition
+
+## Hortator and Nerevarine
+
+Wraithguard can be obtained from Vivec as a gift, where he activates it for you and tells you the location of the Keening and Sunder.
+
+## Yagrum Bagarn and Wraithguard
+
+If Vivec is defeated, instead of Wraithguard, the Unique Dwemer Artifact can be found on his corpse, it needs to be activated by Yagrum Bagarn, who requires Kagrenac's Journal and Planbook to do so. Upon equipping this "jury rig" version it backfires, inflicting between 201 and 225 permanent points of damage.
+
+## Usefulness
+
+This gauntlet is needed to wield both Keening and Sunder. Without Wraithguard, there is nothing to shield the user from their unnatural power, and they will cause a very quick death. Even without the use of the other profane artifacts, the gauntlet is an impressive piece of equipment, offering a high armor bonus and a variety of enchantments.
+
+## Trivia
+
+The 50% Resist Blight Disease enchantment is superfluous, since the Nerevarine becomes immune to all forms of disease long before Wraithguard becomes obtainable.
+
+The jury-rigged Wraithguard will cause a permanent health decrease in most versions of Morrowind, rather than the temporary drain as was intended.
+
+Their design and purpose bears a striking similarity to Járngreipr, gauntlets the Norse god Thor uses in order to properly equip the hammer Mjölnir, much like how the Nerevarine requires Wraithguard to wield the hammer Sunder.
+
+## See also
+
+Wraithguard II – A support card in The Elder Scrolls: Legends

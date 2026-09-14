@@ -1,0 +1,57 @@
+# Heart of Lorkhan
+
+The Heart of Lorkhan, or the Heart of Shor, sometimes called his "divine spark" was an Aedric artifact hidden beneath Red Mountain during the Dawn Era. Its most prominent appearance was during The Elder Scrolls III: Morrowind. The Heart of Lorkhan is known to be the Tower Stone of the Red Mountain.
+
+## History
+
+## Dawn Era
+
+"But when Trinimac and Auriel tried to destroy the Heart of Lorkhan it laughed at them. It said, "This Heart is the heart of the world, for one was made to satisfy the other." So Auriel fastened the thing to an arrow and let it fly long into the sea, where no aspect of the new world may ever find it."
+
+―Temple Zero Society
+
+Following the creation of Mundus, Lorkhan's heart was taken from him as a punishment for his creating the mortal plane. Not all myths state this is a punishment. Several Aedra were said to have tried to destroy the heart, but could not, so it was cast down into the depths of Nirn, never meant to be found. It landed in Resdayn, forming a large volcano that would come to be known as Red Mountain.
+
+## First Era
+
+Sometime in the First Era, the Dwemer discovered the heart while excavating under Red Mountain. Kagrenac, the Chief Tonal Architect and High Priest of the Dwemer began to experiment with the Heart. He created three tools: Keening, Sunder and Wraithguard to work with the heart. He would soon order the construction of the Numidium, a massive mechanical golem. He hoped to use the Heart as a power source for extracting the divine power from the Heart and in the experiments for improving the Dwemer race.
+
+This plan was interrupted by the arrival of Indoril Nerevar, his generals (Vivec, Almalexia, Sotha Sil, and Voryn Dagoth), and an army of Chimer. Nerevar and Dagoth fought the Dwemer king and Kagrenac in the heart chamber beneath Red Mountain. When the Dwemer were bested in combat, Kagrenac used the tools on the heart, and the entire Dwemer race vanished.
+
+Another account stated that King Wulfharth was resurrected as Shor's avatar and amassed an army comprising of Nords, orcs, and House Dagoth to obtain the Heart of Lorkhan, which to the Nords was considered the Heart of Shor. In the climactic battle at the Battle of Red Mountain, Wulfharth had obtained the Heart but needed time to acclimate to its power. During this time, he and Voryn Dagoth faced Nerevar and his two companions, Alandro Sul and Dumac Dwarfking. Wulfharth blinded Alandro Sul with a shout and slew Dumac, but was weakened by a blow from Dumac's warhammer, Sunder. Neravar took the opportunity to finish Wulfharth off and slay him with a surprise side attack with Keening. With Keening, Nerevar cut out Wulfharth's heart.
+
+Nerevar entrusted the tools to Voryn Dagoth (who had requested that the tools be destroyed) and met with his other generals. They agreed to keep the tools but to not use them. In some accounts of this event, Nerevar then dies of his wounds from the battle with the Dwemer. Upon returning to the heart chamber, those who return discover that Voryn Dagoth had gone mad and refused to relinquish the tools, stating the Nerevar had commanded him to keep them from falling into the wrong hands. In the ensuing battle (by some accounts involving Nerevar), Dagoth was driven away, forced to surrender the artifacts.
+
+This turn of events concerned Nerevar and he decided to ask the Daedric Prince Azura for guidance. However, his generals murdered him during the ritual. Azura still came and cursed the Tribunal for their crimes, claiming that she would use her powers to resurrect Nerevar. She then changed the Chimer into the Dunmer.
+
+Then the Tribunal used the Tools on the heart and became living gods; they did many great deeds for their people. Since their deeds worked against the evil nature of the heart, they needed to return to it from time to time to rejuvenate their powers. At some later point, they discovered that Voryn Dagoth (now styling himself as Dagoth Ur) yet lived and had connected himself directly to the heart's power. He drove them away, and on subsequent attempts to recover the heart chamber for themselves, they lost control of Keening and Sunder to him and barely escaped alive, supposedly due to the quick actions of Vivec.
+
+Over time, the Tribunal became weaker and weaker, whilst Dagoth Ur became stronger still. They disappeared from public view, and their influence faded. Their sole attempt at restraining Dagoth Ur (the Ghostfence) consumed much of their remaining power and was largely ineffective at containing the Blight. They also could not prevent Dagoth Ur's forces from flying or tunneling past the Ghostfence.
+
+## Third Era
+
+Towards the end of the Third Era, the Nerevarine came face to face with his old ally and broke him. However, while sustained by the heart, Dagoth Ur could not truly die. By using the tools Sunder and Keening on the heart again, without a proper ritual, the Nerevarine freed the Heart from its bindings, and is believed to have caused its destruction. This enabled the Nerevarine to officially slay Dagoth Ur and destroy his great weapon, Akulakhan.
+
+## Fourth Era
+
+The Heart is briefly mentioned during the quest "Discerning the Transmundane." When Septimus Signus discovers a Dwemer Lockbox brought in by the sudden flood in Winterhold, he believes the Lockbox contains the Heart of Lorkhan. The Dragonborn found an Elder Scroll and inscribed the encryption into a Lexicon. The Elder Scroll and its knowledge was apparently held in Alftand. The quest may only be started by meeting Septimus Signus at his outpost north of the College of Winterhold. Upon completion of the quest the Dragonborn and Septimus Signus discovered the Lockbox does not contain the Heart but instead the Oghma Infinium.
+
+The Heart was also mentioned as being requested by Wylandriah in her letter to the College of Winterhold. Although the College did not possess the Heart, experimentation similar to that of Kagrenac was indeed going on in the College, performed by Arniel Gane. However, Arniel was only using an approximate model of the Heart made from a soul gem.
+
+On Solstheim, there were stones of unknown origin known as Heart Stones that appeared after the eruption of Red Mountain, suggesting they may be somehow related to the Heart.
+
+## Quests
+
+## The Citadels of the Sixth House
+
+Using Keening and Sunder while Wraithguard is equipped, attack the heart until it loses its power.
+
+## Discerning the Transmundane
+
+Septimus Signus believes the heart to be located inside the Dwemer contraption within his outpost.
+
+## Trivia
+
+Despite being considered a character by the game, the heart cannot be soul trapped. It does have a petty soul, and if one tries to soul trap it they will get a message saying "Your spell did not get a target."
+
+It is important to note that within the game it is realistically impossible to kill the heart outright (unless using cheats). This is because the heart has a great deal of health and tremendous regenerative powers. Only the Keening and Sunder can banish it. However, if it is destroyed through cheats, the main quest cannot be completed and is bugged.

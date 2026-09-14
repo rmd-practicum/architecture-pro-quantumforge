@@ -1,0 +1,28 @@
+@startuml
+
+title RAG quality evaluation
+
+participant "test.py" as Test
+participant "golden_questions.json" as Golden
+participant "Бот" as Bot
+participant "Модель-судья" as Judge
+
+Test -> Golden: Читает вопросы и эталонные ответы
+Golden --> Test: known_questions, unknown_questions
+
+Test -> Bot: POST /query: известный вопрос
+Bot --> Test: response, sources
+Test -> Judge: correctness: вопрос, ответ, эталон
+Judge --> Test: оценка
+Test -> Judge: groundedness: ответ, чанки
+Judge --> Test: оценка
+Test -> Judge: retrieval_relevance: вопрос, чанки
+Judge --> Test: оценка
+
+Test -> Bot: POST /query: неизвестный вопрос
+Bot --> Test: response, is_success
+Test -> Test: Проверяет, что is_success = false
+
+Test -> Test: Выводит результаты в JSONL
+
+@enduml

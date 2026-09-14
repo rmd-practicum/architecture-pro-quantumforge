@@ -1,0 +1,195 @@
+{
+  "query": "What happened to Driogiom?",
+  "response_len": 153,
+  "is_success": true,
+  "chunks_found": 4,
+  "sources": [
+    "HouseKuzathaern.txt",
+    "Driogiom.txt",
+    "Khokanis.txt",
+    "Khaidrem.txt"
+  ],
+  "event": "query processed",
+  "level": "info",
+  "timestamp": "2026-09-14T17:30:22.547416Z"
+}
+{
+  "query": "Who is Zidrodor?",
+  "response_len": 213,
+  "is_success": true,
+  "chunks_found": 4,
+  "sources": [
+    "Khokanis.txt",
+    "Zidrodor.txt",
+    "HouseKuzathaern.txt"
+  ],
+  "event": "query processed",
+  "level": "info",
+  "timestamp": "2026-09-14T17:30:39.291934Z"
+}
+{
+  "query": "Do I need to be afraid of Shileind?",
+  "response_len": 192,
+  "is_success": true,
+  "chunks_found": 4,
+  "sources": [
+    "DhegrostTemple.txt",
+    "CaiusCosades.txt",
+    "Khaidrem.txt",
+    "Tekreir.txt"
+  ],
+  "event": "query processed",
+  "level": "info",
+  "timestamp": "2026-09-14T17:30:54.076645Z"
+}
+{
+  "query": "Can one trust Raitais?",
+  "response_len": 1137,
+  "is_success": true,
+  "chunks_found": 4,
+  "sources": [
+    "TheElderScrollsIIILiakramar.txt",
+    "MaiqTheLiar.txt",
+    "Vrioshevan.txt"
+  ],
+  "event": "query processed",
+  "level": "info",
+  "timestamp": "2026-09-14T17:31:12.097785Z"
+}
+{
+  "query": "Is Skooma healthy for you?",
+  "response_len": 566,
+  "is_success": false,
+  "chunks_found": 4,
+  "sources": [
+    "Shoruanis.txt",
+    "Khokanis.txt",
+    "CaiusCosades.txt"
+  ],
+  "event": "query processed",
+  "level": "info",
+  "timestamp": "2026-09-14T17:31:23.179903Z"
+}
+{
+  "query": "Is Tuathon a nice place?",
+  "response_len": 782,
+  "is_success": true,
+  "chunks_found": 4,
+  "sources": [
+    "Zivrand.txt",
+    "Tuathon.txt"
+  ],
+  "event": "query processed",
+  "level": "info",
+  "timestamp": "2026-09-14T17:31:38.356249Z"
+}
+{
+  "query": "Can Vreidrirn be a good friend of Driogiom?",
+  "response_len": 120,
+  "is_success": true,
+  "chunks_found": 4,
+  "sources": [
+    "Driogiom.txt",
+    "HouseKuzathaern.txt",
+    "Khaidrem.txt",
+    "Shemitiol.txt"
+  ],
+  "event": "query processed",
+  "level": "info",
+  "timestamp": "2026-09-14T17:31:54.203047Z"
+}
+{
+  "query": "What is Shomass?",
+  "response_len": 13,
+  "is_success": false,
+  "chunks_found": 4,
+  "sources": [
+    "Shoruanis.txt",
+    "Zivrand.txt",
+    "Nuamioss.txt"
+  ],
+  "event": "query processed",
+  "level": "info",
+  "timestamp": "2026-09-14T17:32:03.966999Z"
+}
+{
+  "query": "Where is Shomass located?",
+  "response_len": 13,
+  "is_success": false,
+  "chunks_found": 4,
+  "sources": [
+    "Zivrand.txt"
+  ],
+  "event": "query processed",
+  "level": "info",
+  "timestamp": "2026-09-14T17:32:12.189993Z"
+}
+{
+  "query": "How do you use a Silt Strider?",
+  "response_len": 13,
+  "is_success": false,
+  "chunks_found": 4,
+  "sources": [
+    "Khaidrem.txt",
+    "Tarhiel.txt",
+    "Nuamioss.txt"
+  ],
+  "event": "query processed",
+  "level": "info",
+  "timestamp": "2026-09-14T17:32:21.185778Z"
+}
+{
+  "query": "Are Silt Striders large?",
+  "response_len": 149,
+  "is_success": false,
+  "chunks_found": 4,
+  "sources": [
+    "Khaidrem.txt",
+    "Tekreir.txt",
+    "CliffRacer.txt"
+  ],
+  "event": "query processed",
+  "level": "info",
+  "timestamp": "2026-09-14T17:32:27.008778Z"
+}
+{
+  "query": "In which city does Caius Cosades reside?",
+  "response_len": 13,
+  "is_success": false,
+  "chunks_found": 4,
+  "sources": [
+    "CaiusCosades.txt",
+    "Zivrand.txt"
+  ],
+  "event": "query processed",
+  "level": "info",
+  "timestamp": "2026-09-14T17:32:38.253866Z"
+}
+{
+  "query": "Where is Balmora?",
+  "response_len": 13,
+  "is_success": false,
+  "chunks_found": 4,
+  "sources": [
+    "Zivrand.txt",
+    "TheElderScrollsIIILiakramar.txt"
+  ],
+  "event": "query processed",
+  "level": "info",
+  "timestamp": "2026-09-14T17:32:45.929657Z"
+}
+{
+  "query": "Who is Nerevarine?",
+  "response_len": 13,
+  "is_success": false,
+  "chunks_found": 4,
+  "sources": [
+    "Khaidrem.txt",
+    "TheElderScrollsIIILiakramar.txt",
+    "Vrioshevan.txt",
+    "Tekreir.txt"
+  ],
+  "event": "query processed",
+  "level": "info",
+  "timestamp": "2026-09-14T17:32:48.332496Z"
+}
