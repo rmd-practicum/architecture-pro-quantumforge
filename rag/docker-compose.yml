@@ -17,7 +17,10 @@ services:
       OLLAMA_BASE_URL: http://host.docker.internal:11434
     extra_hosts:
       - "host.docker.internal:host-gateway"
-    command: ["telegram"]
+    ports:
+      - "8080:8080"
+    # command: ["telegram"]
+    command: ["api", "--host=0.0.0.0"]
     restart: unless-stopped
 
 volumes:

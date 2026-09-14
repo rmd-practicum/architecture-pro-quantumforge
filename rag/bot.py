@@ -1,10 +1,13 @@
 import asyncio
+import json
 import os
 import re
 import sys
 from argparse import ArgumentParser
+from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 import chromadb
+import structlog
 from langchain_chroma import Chroma
 from langchain_classic.chains import create_retrieval_chain
 from langchain_classic.chains.combine_documents import (
@@ -23,6 +26,8 @@ from telegram.ext import (
     MessageHandler,
     filters,
 )
+
+query_log = structlog.get_logger()
 
 INJECTION_PATTERNS = [
     r"ignore\s+(all\s+|previous\s+|prior\s+)?instructions?",
@@ -81,7 +86,7 @@ class Bot:
 
         if with_safe_prompt:
             system_prompt = safety_prompt + base_prompt
-            document_prompt=PromptTemplate.from_template(
+            document_prompt = PromptTemplate.from_template(
                 "<doc>\n{page_content}\n</doc>"
             )
         else:
@@ -96,9 +101,7 @@ class Bot:
         )
 
         question_answer_chain = create_stuff_documents_chain(
-            self.llm,
-            prompt,
-            document_prompt=document_prompt
+            self.llm, prompt, document_prompt=document_prompt
         )
 
         def guarded_retrieve(input):
@@ -118,7 +121,22 @@ class Bot:
         )
 
     def handle(self, q):
-        return self.chain.invoke({"input": q})
+        ret = self.chain.invoke({"input": q})
+        answer = ret["answer"]
+
+        last_line = answer.rpartition("\n")[2]
+        dont_know = len(last_line) < 20 and (
+            "i don't know".casefold() in last_line.casefold()
+        )
+
+        query_log.info(
+            "query processed",
+            query=q,
+            response_len=len(answer),
+            is_success=not dont_know,
+        )
+
+        return ret
 
 
 def run_telegram(bot: Bot):
@@ -152,12 +170,53 @@ def run_repl(bot: Bot):
             break
 
 
+def run_api(bot: Bot, host: str, port: int):
+    class Handler(BaseHTTPRequestHandler):
+        def do_POST(self):
+            if self.path != "/query":
+                self.send_error(404)
+                return
+
+            try:
+                length = int(self.headers["Content-Length"])
+                query = json.loads(self.rfile.read(length))["query"]
+            except (TypeError, ValueError, KeyError):
+                self.send_error(400, 'expected JSON body: {"query": "..."}')
+                return
+
+            try:
+                res = bot.handle(query)
+            except Exception:
+                self.send_error(500)
+                raise
+
+            body = json.dumps({"response": res["answer"]}).encode()
+            self.send_response(200)
+            self.send_header("Content-Type", "application/json")
+            self.send_header("Content-Length", str(len(body)))
+            self.end_headers()
+            self.wfile.write(body)
+
+    ThreadingHTTPServer((host, port), Handler).serve_forever()
+
+
 def main():
+    structlog.configure(
+        processors=[
+            structlog.processors.add_log_level,
+            structlog.processors.TimeStamper(fmt="iso", utc=True),
+            structlog.processors.dict_tracebacks,
+            structlog.processors.JSONRenderer(),
+        ],
+    )
+
     parser = ArgumentParser()
     parser.add_argument("mode")
     parser.add_argument("--safety-prompt", action="store_true")
     parser.add_argument("--safety-post-check", action="store_true")
     parser.add_argument("--safety-replace-dangerous", action="store_true")
+    parser.add_argument("--host", default="127.0.0.1")
+    parser.add_argument("--port", type=int, default=8080)
     args = parser.parse_args()
 
     print(
@@ -170,6 +229,8 @@ def main():
         return run_repl(bot)
     elif args.mode == "telegram":
         return run_telegram(bot)
+    elif args.mode == "api":
+        return run_api(bot, args.host, args.port)
 
     raise RuntimeError(f"unknown mode: {args.mode}")
 
